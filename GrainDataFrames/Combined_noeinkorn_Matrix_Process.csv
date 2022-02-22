@@ -1,0 +1,1111 @@
+Filename,ID,Microscope,Objective,Mag,Accession,Ear /Bundles,Ear row,Ear Position,Spk position,Position type,taxon.code,View,Charred?
+1516_TRI17251_A_R1_1of1_Tdicm_1x1_d_c,1516,Nikon,1x,1,TRI17251,A,R1,Base,1of1,Solo,Tdicm,d,c
+1517_TRI17251_A_R1_1of1_Tdicm_1x1_l_c,1517,Nikon,1x,1,TRI17251,A,R1,Base,1of1,Solo,Tdicm,l,c
+1519_TRI17251_A_R2_1of1_Tdicm_1x1_d_c,1519,Nikon,1x,1,TRI17251,A,R2,Base,1of1,Solo,Tdicm,d,c
+1520_TRI17251_A_R2_1of1_Tdicm_1x1_l_c,1520,Nikon,1x,1,TRI17251,A,R2,Base,1of1,Solo,Tdicm,l,c
+1522_TRI17251_A_R3_1of2_Tdicm_1x1_d_c,1522,Nikon,1x,1,TRI17251,A,R3,Base,1of2,External,Tdicm,d,c
+1523_TRI17251_A_R3_1of2_Tdicm_1x1_l_c,1523,Nikon,1x,1,TRI17251,A,R3,Base,1of2,External,Tdicm,l,c
+1525_TRI17251_A_R9_1of1_Tdicm_1x1_d_c,1525,Nikon,1x,1,TRI17251,A,R9,Mid,1of1,Solo,Tdicm,d,c
+1526_TRI17251_A_R9_1of1_Tdicm_1x1_l_c,1526,Nikon,1x,1,TRI17251,A,R9,Mid,1of1,Solo,Tdicm,l,c
+1528_TRI17251_A_R10_1of2_Tdicm_1x1_d_c,1528,Nikon,1x,1,TRI17251,A,R10,Mid,1of2,External,Tdicm,d,c
+1529_TRI17251_A_R10_1of2_Tdicm_1x1_l_c,1529,Nikon,1x,1,TRI17251,A,R10,Mid,1of2,External,Tdicm,l,c
+1531_TRI17251_A_R10_2of2_Tdicm_1x1_d_c,1531,Nikon,1x,1,TRI17251,A,R10,Mid,2of2,External,Tdicm,d,c
+1532_TRI17251_A_R10_2of2_Tdicm_1x1_l_c,1532,Nikon,1x,1,TRI17251,A,R10,Mid,2of2,External,Tdicm,l,c
+1534_TRI17251_A_R17_1of2_Tdicm_1x1_d_c,1534,Nikon,1x,1,TRI17251,A,R17,Top,1of2,External,Tdicm,d,c
+1535_TRI17251_A_R17_1of2_Tdicm_1x1_l_c,1535,Nikon,1x,1,TRI17251,A,R17,Top,1of2,External,Tdicm,l,c
+1537_TRI17251_A_R18_1of2_Tdicm_1x1_d_c,1537,Nikon,1x,1,TRI17251,A,R18,Top,1of2,External,Tdicm,d,c
+1538_TRI17251_A_R18_1of2_Tdicm_1x1_l_c,1538,Nikon,1x,1,TRI17251,A,R18,Top,1of2,External,Tdicm,l,c
+1540_TRI17251_A_R18_2of2_Tdicm_1x1_d_c,1540,Nikon,1x,1,TRI17251,A,R18,Top,2of2,External,Tdicm,d,c
+1541_TRI17251_A_R18_2of2_Tdicm_1x1_l_c,1541,Nikon,1x,1,TRI17251,A,R18,Top,2of2,External,Tdicm,l,c
+1543_TRI677_A_R1_1of2_Timo_1x1_d_c,1543,Nikon,1x,1,TRI677,A,R1,Base,1of2,External,Timo,d,c
+1544_TRI677_A_R1_1of2_Timo_1x1_l_c,1544,Nikon,1x,1,TRI677,A,R1,Base,1of2,External,Timo,l,c
+1546_TRI677_A_R1_2of2_Timo_1x1_d_c,1546,Nikon,1x,1,TRI677,A,R1,Base,2of2,External,Timo,d,c
+1547_TRI677_A_R1_2of2_Timo_1x1_l_c,1547,Nikon,1x,1,TRI677,A,R1,Base,2of2,External,Timo,l,c
+1549_TRI677_A_R2_1of2_Timo_1x1_d_c,1549,Nikon,1x,1,TRI677,A,R2,Base,1of2,External,Timo,d,c
+1550_TRI677_A_R2_1of2_Timo_1x1_l_c,1550,Nikon,1x,1,TRI677,A,R2,Base,1of2,External,Timo,l,c
+1552_TRI677_A_R7_1of2_Timo_1x1_d_c,1552,Nikon,1x,1,TRI677,A,R7,Mid,1of2,External,Timo,d,c
+1553_TRI677_A_R7_1of2_Timo_1x1_l_c,1553,Nikon,1x,1,TRI677,A,R7,Mid,1of2,External,Timo,l,c
+1555_TRI677_A_R7_2of2_Timo_1x1_d_c,1555,Nikon,1x,1,TRI677,A,R7,Mid,2of2,External,Timo,d,c
+1556_TRI677_A_R7_2of2_Timo_1x1_l_c,1556,Nikon,1x,1,TRI677,A,R7,Mid,2of2,External,Timo,l,c
+1558_TRI677_A_R8_2of2_Timo_1x1_d_c,1558,Nikon,1x,1,TRI677,A,R8,Mid,2of2,External,Timo,d,c
+1559_TRI677_A_R8_2of2_Timo_1x1_l_c,1559,Nikon,1x,1,TRI677,A,R8,Mid,2of2,External,Timo,l,c
+1561_TRI677_A_R13_1of2_Timo_1x1_d_c,1561,Nikon,1x,1,TRI677,A,R13,Top,1of2,External,Timo,d,c
+1562_TRI677_A_R13_1of2_Timo_1x1_l_c,1562,Nikon,1x,1,TRI677,A,R13,Top,1of2,External,Timo,l,c
+1564_TRI677_A_R13_2of2_Timo_1x1_d_c,1564,Nikon,1x,1,TRI677,A,R13,Top,2of2,External,Timo,d,c
+1565_TRI677_A_R13_2of2_Timo_1x1_l_c,1565,Nikon,1x,1,TRI677,A,R13,Top,2of2,External,Timo,l,c
+1567_TRI677_A_R14_1of1_Timo_1x1_d_c,1567,Nikon,1x,1,TRI677,A,R14,Top,1of1,Solo,Timo,d,c
+1568_TRI677_A_R14_1of1_Timo_1x1_l_c,1568,Nikon,1x,1,TRI677,A,R14,Top,1of1,Solo,Timo,l,c
+1759_TRI677_B_R1_1of2_Timo_1x1_d_c,1759,Nikon,1x,1,TRI677,B,R1,Base,1of2,External,Timo,d,c
+1760_TRI677_B_R1_1of2_Timo_1x1_l_c,1760,Nikon,1x,1,TRI677,B,R1,Base,1of2,External,Timo,l,c
+1762_TRI677_B_R1_2of2_Timo_1x1_d_c,1762,Nikon,1x,1,TRI677,B,R1,Base,2of2,External,Timo,d,c
+1763_TRI677_B_R1_2of2_Timo_1x1_l_c,1763,Nikon,1x,1,TRI677,B,R1,Base,2of2,External,Timo,l,c
+1765_TRI677_B_R2_1of2_Timo_1x1_d_c,1765,Nikon,1x,1,TRI677,B,R2,Base,1of2,External,Timo,d,c
+1766_TRI677_B_R2_1of2_Timo_1x1_l_c,1766,Nikon,1x,1,TRI677,B,R2,Base,1of2,External,Timo,l,c
+1768_TRI677_B_R6_1of2_Timo_1x1_d_c,1768,Nikon,1x,1,TRI677,B,R6,Mid,1of2,External,Timo,d,c
+1769_TRI677_B_R6_1of2_Timo_1x1_l_c,1769,Nikon,1x,1,TRI677,B,R6,Mid,1of2,External,Timo,l,c
+1771_TRI677_B_R6_2of2_Timo_1x1_d_c,1771,Nikon,1x,1,TRI677,B,R6,Mid,2of2,External,Timo,d,c
+1772_TRI677_B_R6_2of2_Timo_1x1_l_c,1772,Nikon,1x,1,TRI677,B,R6,Mid,2of2,External,Timo,l,c
+1774_TRI677_B_R7_2of2_Timo_1x1_d_c,1774,Nikon,1x,1,TRI677,B,R7,Mid,2of2,External,Timo,d,c
+1775_TRI677_B_R7_2of2_Timo_1x1_l_c,1775,Nikon,1x,1,TRI677,B,R7,Mid,2of2,External,Timo,l,c
+1777_TRI677_B_R9_1of2_Timo_1x1_d_c,1777,Nikon,1x,1,TRI677,B,R9,Top,1of2,External,Timo,d,c
+1778_TRI677_B_R9_1of2_Timo_1x1_l_c,1778,Nikon,1x,1,TRI677,B,R9,Top,1of2,External,Timo,l,c
+1780_TRI677_B_R10_1of1_Timo_1x1_d_c,1780,Nikon,1x,1,TRI677,B,R10,Top,1of1,Solo,Timo,d,c
+1781_TRI677_B_R10_1of1_Timo_1x1_l_c,1781,Nikon,1x,1,TRI677,B,R10,Top,1of1,Solo,Timo,l,c
+1783_TRI677_B_R11_1of1_Timo_1x1_d_c,1783,Nikon,1x,1,TRI677,B,R11,Top,1of1,Solo,Timo,d,c
+1784_TRI677_B_R11_1of1_Timo_1x1_l_c,1784,Nikon,1x,1,TRI677,B,R11,Top,1of1,Solo,Timo,l,c
+1786_TRI677_C_R1_1of2_Timo_1x1_d_c,1786,Nikon,1x,1,TRI677,C,R1,Base,1of2,External,Timo,d,c
+1787_TRI677_C_R1_1of2_Timo_1x1_l_c,1787,Nikon,1x,1,TRI677,C,R1,Base,1of2,External,Timo,l,c
+1789_TRI677_C_R1_2of2_Timo_1x1_d_c,1789,Nikon,1x,1,TRI677,C,R1,Base,2of2,External,Timo,d,c
+1790_TRI677_C_R1_2of2_Timo_1x1_l_c,1790,Nikon,1x,1,TRI677,C,R1,Base,2of2,External,Timo,l,c
+1792_TRI677_C_R2_2of2_Timo_1x1_d_c,1792,Nikon,1x,1,TRI677,C,R2,Base,2of2,External,Timo,d,c
+1793_TRI677_C_R2_2of2_Timo_1x1_l_c,1793,Nikon,1x,1,TRI677,C,R2,Base,2of2,External,Timo,l,c
+1795_TRI677_C_R7_1of2_Timo_1x1_d_c,1795,Nikon,1x,1,TRI677,C,R7,Mid,1of2,External,Timo,d,c
+1796_TRI677_C_R7_1of2_Timo_1x1_l_c,1796,Nikon,1x,1,TRI677,C,R7,Mid,1of2,External,Timo,l,c
+1798_TRI677_C_R7_2of2_Timo_1x1_d_c,1798,Nikon,1x,1,TRI677,C,R7,Mid,2of2,External,Timo,d,c
+1799_TRI677_C_R7_2of2_Timo_1x1_l_c,1799,Nikon,1x,1,TRI677,C,R7,Mid,2of2,External,Timo,l,c
+1801_TRI677_C_R8_1of2_Timo_1x1_d_c,1801,Nikon,1x,1,TRI677,C,R8,Mid,1of2,External,Timo,d,c
+1802_TRI677_C_R8_1of2_Timo_1x1_l_c,1802,Nikon,1x,1,TRI677,C,R8,Mid,1of2,External,Timo,l,c
+1804_TRI677_C_R13_1of2_Timo_1x1_d_c,1804,Nikon,1x,1,TRI677,C,R13,Top,1of2,External,Timo,d,c
+1805_TRI677_C_R13_1of2_Timo_1x1_l_c,1805,Nikon,1x,1,TRI677,C,R13,Top,1of2,External,Timo,l,c
+1807_TRI677_C_R13_2of2_Timo_1x1_d_c,1807,Nikon,1x,1,TRI677,C,R13,Top,2of2,External,Timo,d,c
+1808_TRI677_C_R13_2of2_Timo_1x1_l_c,1808,Nikon,1x,1,TRI677,C,R13,Top,2of2,External,Timo,l,c
+1810_TRI677_C_R14_1of1_Timo_1x1_d_c,1810,Nikon,1x,1,TRI677,C,R14,Top,1of1,Solo,Timo,d,c
+1811_TRI677_C_R14_1of1_Timo_1x1_l_c,1811,Nikon,1x,1,TRI677,C,R14,Top,1of1,Solo,Timo,l,c
+1867_T1160001_A_R1_2of2_Timo_1x1_d_c,1867,Nikon,1x,1,T1160001,A,R1,Base,2of2,External,Timo,d,c
+1868_T1160001_A_R1_2of2_Timo_1x1_l_c,1868,Nikon,1x,1,T1160001,A,R1,Base,2of2,External,Timo,l,c
+1870_T1160001_A_R2_1of2_Timo_1x1_d_c,1870,Nikon,1x,1,T1160001,A,R2,Base,1of2,External,Timo,d,c
+1871_T1160001_A_R2_1of2_Timo_1x1_l_c,1871,Nikon,1x,1,T1160001,A,R2,Base,1of2,External,Timo,l,c
+1873_T1160001_A_R2_2of2_Timo_1x1_d_c,1873,Nikon,1x,1,T1160001,A,R2,Base,2of2,External,Timo,d,c
+1874_T1160001_A_R2_2of2_Timo_1x1_l_c,1874,Nikon,1x,1,T1160001,A,R2,Base,2of2,External,Timo,l,c
+1876_T1160001_A_R11_1of2_Timo_1x1_d_c,1876,Nikon,1x,1,T1160001,A,R11,Mid,1of2,External,Timo,d,c
+1877_T1160001_A_R11_1of2_Timo_1x1_l_c,1877,Nikon,1x,1,T1160001,A,R11,Mid,1of2,External,Timo,l,c
+1879_T1160001_A_R11_2of2_Timo_1x1_d_c,1879,Nikon,1x,1,T1160001,A,R11,Mid,2of2,External,Timo,d,c
+1880_T1160001_A_R11_2of2_Timo_1x1_l_c,1880,Nikon,1x,1,T1160001,A,R11,Mid,2of2,External,Timo,l,c
+1882_T1160001_A_R12_1of2_Timo_1x1_d_c,1882,Nikon,1x,1,T1160001,A,R12,Mid,1of2,External,Timo,d,c
+1883_T1160001_A_R12_1of2_Timo_1x1_l_c,1883,Nikon,1x,1,T1160001,A,R12,Mid,1of2,External,Timo,l,c
+1885_T1160001_A_R20_2of2_Timo_1x1_d_c,1885,Nikon,1x,1,T1160001,A,R20,Top,2of2,External,Timo,d,c
+1886_T1160001_A_R20_2of2_Timo_1x1_l_c,1886,Nikon,1x,1,T1160001,A,R20,Top,2of2,External,Timo,l,c
+1888_T1160001_A_R21_1of1_Timo_1x1_d_c,1888,Nikon,1x,1,T1160001,A,R21,Top,1of1,Solo,Timo,d,c
+1889_T1160001_A_R21_1of1_Timo_1x1_l_c,1889,Nikon,1x,1,T1160001,A,R21,Top,1of1,Solo,Timo,l,c
+1891_T1160001_A_R22_1of1_Timo_1x1_d_c,1891,Nikon,1x,1,T1160001,A,R22,Top,1of1,Solo,Timo,d,c
+1892_T1160001_A_R22_1of1_Timo_1x1_l_c,1892,Nikon,1x,1,T1160001,A,R22,Top,1of1,Solo,Timo,l,c
+1894_T1160001_B_R1_1of2_Timo_1x1_d_c,1894,Nikon,1x,1,T1160001,B,R1,Base,1of2,External,Timo,d,c
+1895_T1160001_B_R1_1of2_Timo_1x1_l_c,1895,Nikon,1x,1,T1160001,B,R1,Base,1of2,External,Timo,l,c
+1897_T1160001_B_R1_2of2_Timo_1x1_d_c,1897,Nikon,1x,1,T1160001,B,R1,Base,2of2,External,Timo,d,c
+1898_T1160001_B_R1_2of2_Timo_1x1_l_c,1898,Nikon,1x,1,T1160001,B,R1,Base,2of2,External,Timo,l,c
+1900_T1160001_B_R2_1of2_Timo_1x1_d_c,1900,Nikon,1x,1,T1160001,B,R2,Base,1of2,External,Timo,d,c
+1901_T1160001_B_R2_1of2_Timo_1x1_l_c,1901,Nikon,1x,1,T1160001,B,R2,Base,1of2,External,Timo,l,c
+1903_T1160001_B_R10_1of2_Timo_1x1_d_c,1903,Nikon,1x,1,T1160001,B,R10,Mid,1of2,External,Timo,d,c
+1904_T1160001_B_R10_1of2_Timo_1x1_l_c,1904,Nikon,1x,1,T1160001,B,R10,Mid,1of2,External,Timo,l,c
+1906_T1160001_B_R10_2of2_Timo_1x1_d_c,1906,Nikon,1x,1,T1160001,B,R10,Mid,2of2,External,Timo,d,c
+1907_T1160001_B_R10_2of2_Timo_1x1_l_c,1907,Nikon,1x,1,T1160001,B,R10,Mid,2of2,External,Timo,l,c
+1909_T1160001_B_R11_2of2_Timo_1x1_d_c,1909,Nikon,1x,1,T1160001,B,R11,Mid,2of2,External,Timo,d,c
+1910_T1160001_B_R11_2of2_Timo_1x1_l_c,1910,Nikon,1x,1,T1160001,B,R11,Mid,2of2,External,Timo,l,c
+1912_T1160001_B_R18_1of1_Timo_1x1_d_c,1912,Nikon,1x,1,T1160001,B,R18,Top,1of1,Solo,Timo,d,c
+1913_T1160001_B_R18_1of1_Timo_1x1_l_c,1913,Nikon,1x,1,T1160001,B,R18,Top,1of1,Solo,Timo,l,c
+1915_T1160001_B_R19_1of1_Timo_1x1_d_c,1915,Nikon,1x,1,T1160001,B,R19,Top,1of1,Solo,Timo,d,c
+1916_T1160001_B_R19_1of1_Timo_1x1_l_c,1916,Nikon,1x,1,T1160001,B,R19,Top,1of1,Solo,Timo,l,c
+1918_T1160001_B_R20_1of1_Timo_1x1_d_c,1918,Nikon,1x,1,T1160001,B,R20,Top,1of1,Solo,Timo,d,c
+1919_T1160001_B_R20_1of1_Timo_1x1_l_c,1919,Nikon,1x,1,T1160001,B,R20,Top,1of1,Solo,Timo,l,c
+1921_T1160001_C_R1_1of1_Timo_1x1_d_c,1921,Nikon,1x,1,T1160001,C,R1,Base,1of1,Solo,Timo,d,c
+1922_T1160001_C_R1_1of1_Timo_1x1_l_c,1922,Nikon,1x,1,T1160001,C,R1,Base,1of1,Solo,Timo,l,c
+1924_T1160001_C_R2_1of2_Timo_1x1_d_c,1924,Nikon,1x,1,T1160001,C,R2,Base,1of2,External,Timo,d,c
+1925_T1160001_C_R2_1of2_Timo_1x1_l_c,1925,Nikon,1x,1,T1160001,C,R2,Base,1of2,External,Timo,l,c
+1927_T1160001_C_R2_2of2_Timo_1x1_d_c,1927,Nikon,1x,1,T1160001,C,R2,Base,2of2,External,Timo,d,c
+1928_T1160001_C_R2_2of2_Timo_1x1_l_c,1928,Nikon,1x,1,T1160001,C,R2,Base,2of2,External,Timo,l,c
+1930_T1160001_C_R11_1of2_Timo_1x1_d_c,1930,Nikon,1x,1,T1160001,C,R11,Mid,1of2,External,Timo,d,c
+1931_T1160001_C_R11_1of2_Timo_1x1_l_c,1931,Nikon,1x,1,T1160001,C,R11,Mid,1of2,External,Timo,l,c
+1933_T1160001_C_R11_2of2_Timo_1x1_d_c,1933,Nikon,1x,1,T1160001,C,R11,Mid,2of2,External,Timo,d,c
+1934_T1160001_C_R11_2of2_Timo_1x1_l_c,1934,Nikon,1x,1,T1160001,C,R11,Mid,2of2,External,Timo,l,c
+1936_T1160001_C_R12_2of2_Timo_1x1_d_c,1936,Nikon,1x,1,T1160001,C,R12,Mid,2of2,External,Timo,d,c
+1937_T1160001_C_R12_2of2_Timo_1x1_l_c,1937,Nikon,1x,1,T1160001,C,R12,Mid,2of2,External,Timo,l,c
+1939_T1160001_C_R20_1of2_Timo_1x1_d_c,1939,Nikon,1x,1,T1160001,C,R20,Top,1of2,External,Timo,d,c
+1940_T1160001_C_R20_1of2_Timo_1x1_l_c,1940,Nikon,1x,1,T1160001,C,R20,Top,1of2,External,Timo,l,c
+1942_T1160001_C_R21_1of1_Timo_1x1_d_c,1942,Nikon,1x,1,T1160001,C,R21,Top,1of1,Solo,Timo,d,c
+1943_T1160001_C_R21_1of1_Timo_1x1_l_c,1943,Nikon,1x,1,T1160001,C,R21,Top,1of1,Solo,Timo,l,c
+1945_T1160001_C_R22_1of1_Timo_1x1_d_c,1945,Nikon,1x,1,T1160001,C,R22,Top,1of1,Solo,Timo,d,c
+1946_T1160001_C_R22_1of1_Timo_1x1_l_c,1946,Nikon,1x,1,T1160001,C,R22,Top,1of1,Solo,Timo,l,c
+1948_T1070018_A_R1_1of2_Tdicm_1x1_d_c,1948,Nikon,1x,1,T1070018,A,R1,Base,1of2,External,Tdicm,d,c
+1949_T1070018_A_R1_1of2_Tdicm_1x1_l_c,1949,Nikon,1x,1,T1070018,A,R1,Base,1of2,External,Tdicm,l,c
+1951_T1070018_A_R1_2of2_Tdicm_1x1_d_c,1951,Nikon,1x,1,T1070018,A,R1,Base,2of2,External,Tdicm,d,c
+1952_T1070018_A_R1_2of2_Tdicm_1x1_l_c,1952,Nikon,1x,1,T1070018,A,R1,Base,2of2,External,Tdicm,l,c
+1954_T1070018_A_R2_1of2_Tdicm_1x1_d_c,1954,Nikon,1x,1,T1070018,A,R2,Base,1of2,External,Tdicm,d,c
+1955_T1070018_A_R2_1of2_Tdicm_1x1_l_c,1955,Nikon,1x,1,T1070018,A,R2,Base,1of2,External,Tdicm,l,c
+1957_T1070018_A_R9_1of2_Tdicm_1x1_d_c,1957,Nikon,1x,1,T1070018,A,R9,Mid,1of2,External,Tdicm,d,c
+1958_T1070018_A_R9_1of2_Tdicm_1x1_l_c,1958,Nikon,1x,1,T1070018,A,R9,Mid,1of2,External,Tdicm,l,c
+1960_T1070018_A_R9_2of2_Tdicm_1x1_d_c,1960,Nikon,1x,1,T1070018,A,R9,Mid,2of2,External,Tdicm,d,c
+1961_T1070018_A_R9_2of2_Tdicm_1x1_l_c,1961,Nikon,1x,1,T1070018,A,R9,Mid,2of2,External,Tdicm,l,c
+1963_T1070018_A_R10_2of2_Tdicm_1x1_d_c,1963,Nikon,1x,1,T1070018,A,R10,Mid,2of2,External,Tdicm,d,c
+1964_T1070018_A_R10_2of2_Tdicm_1x1_l_c,1964,Nikon,1x,1,T1070018,A,R10,Mid,2of2,External,Tdicm,l,c
+1966_T1070018_A_R16_1of2_Tdicm_1x1_d_c,1966,Nikon,1x,1,T1070018,A,R16,Top,1of2,External,Tdicm,d,c
+1967_T1070018_A_R16_1of2_Tdicm_1x1_l_c,1967,Nikon,1x,1,T1070018,A,R16,Top,1of2,External,Tdicm,l,c
+1969_T1070018_A_R16_2of2_Tdicm_1x1_d_c,1969,Nikon,1x,1,T1070018,A,R16,Top,2of2,External,Tdicm,d,c
+1970_T1070018_A_R16_2of2_Tdicm_1x1_l_c,1970,Nikon,1x,1,T1070018,A,R16,Top,2of2,External,Tdicm,l,c
+1972_T1070018_A_R17_1of1_Tdicm_1x1_d_c,1972,Nikon,1x,1,T1070018,A,R17,Top,1of1,Solo,Tdicm,d,c
+1973_T1070018_A_R17_1of1_Tdicm_1x1_l_c,1973,Nikon,1x,1,T1070018,A,R17,Top,1of1,Solo,Tdicm,l,c
+1975_T1070018_B_R1_1of2_Tdicm_1x1_d_c,1975,Nikon,1x,1,T1070018,B,R1,Base,1of2,External,Tdicm,d,c
+1976_T1070018_B_R1_1of2_Tdicm_1x1_l_c,1976,Nikon,1x,1,T1070018,B,R1,Base,1of2,External,Tdicm,l,c
+1978_T1070018_B_R1_2of2_Tdicm_1x1_d_c,1978,Nikon,1x,1,T1070018,B,R1,Base,2of2,External,Tdicm,d,c
+1979_T1070018_B_R1_2of2_Tdicm_1x1_l_c,1979,Nikon,1x,1,T1070018,B,R1,Base,2of2,External,Tdicm,l,c
+1981_T1070018_B_R2_2of2_Tdicm_1x1_d_c,1981,Nikon,1x,1,T1070018,B,R2,Base,2of2,External,Tdicm,d,c
+1982_T1070018_B_R2_2of2_Tdicm_1x1_l_c,1982,Nikon,1x,1,T1070018,B,R2,Base,2of2,External,Tdicm,l,c
+1984_T1070018_B_R9_1of2_Tdicm_1x1_d_c,1984,Nikon,1x,1,T1070018,B,R9,Mid,1of2,External,Tdicm,d,c
+1985_T1070018_B_R9_1of2_Tdicm_1x1_l_c,1985,Nikon,1x,1,T1070018,B,R9,Mid,1of2,External,Tdicm,l,c
+1987_T1070018_B_R9_2of2_Tdicm_1x1_d_c,1987,Nikon,1x,1,T1070018,B,R9,Mid,2of2,External,Tdicm,d,c
+1988_T1070018_B_R9_2of2_Tdicm_1x1_l_c,1988,Nikon,1x,1,T1070018,B,R9,Mid,2of2,External,Tdicm,l,c
+1990_T1070018_B_R10_1of2_Tdicm_1x1_d_c,1990,Nikon,1x,1,T1070018,B,R10,Mid,1of2,External,Tdicm,d,c
+1991_T1070018_B_R10_1of2_Tdicm_1x1_l_c,1991,Nikon,1x,1,T1070018,B,R10,Mid,1of2,External,Tdicm,l,c
+1993_T1070018_B_R17_1of2_Tdicm_1x1_d_c,1993,Nikon,1x,1,T1070018,B,R17,Top,1of2,External,Tdicm,d,c
+1994_T1070018_B_R17_1of2_Tdicm_1x1_l_c,1994,Nikon,1x,1,T1070018,B,R17,Top,1of2,External,Tdicm,l,c
+1996_T1070018_B_R17_2of2_Tdicm_1x1_d_c,1996,Nikon,1x,1,T1070018,B,R17,Top,2of2,External,Tdicm,d,c
+1997_T1070018_B_R17_2of2_Tdicm_1x1_l_c,1997,Nikon,1x,1,T1070018,B,R17,Top,2of2,External,Tdicm,l,c
+1999_T1070018_B_R19_1of1_Tdicm_1x1_d_c,1999,Nikon,1x,1,T1070018,B,R19,Top,1of1,Solo,Tdicm,d,c
+2000_T1070018_B_R19_1of1_Tdicm_1x1_l_c,2000,Nikon,1x,1,T1070018,B,R19,Top,1of1,Solo,Tdicm,l,c
+2002_T1070018_C_R1_1of2_Tdicm_1x1_d_c,2002,Nikon,1x,1,T1070018,C,R1,Base,1of2,External,Tdicm,d,c
+2003_T1070018_C_R1_1of2_Tdicm_1x1_l_c,2003,Nikon,1x,1,T1070018,C,R1,Base,1of2,External,Tdicm,l,c
+2005_T1070018_C_R1_2of2_Tdicm_1x1_d_c,2005,Nikon,1x,1,T1070018,C,R1,Base,2of2,External,Tdicm,d,c
+2006_T1070018_C_R1_2of2_Tdicm_1x1_l_c,2006,Nikon,1x,1,T1070018,C,R1,Base,2of2,External,Tdicm,l,c
+2008_T1070018_C_R2_1of2_Tdicm_1x1_d_c,2008,Nikon,1x,1,T1070018,C,R2,Base,1of2,External,Tdicm,d,c
+2009_T1070018_C_R2_1of2_Tdicm_1x1_l_c,2009,Nikon,1x,1,T1070018,C,R2,Base,1of2,External,Tdicm,l,c
+2011_T1070018_C_R10_1of2_Tdicm_1x1_d_c,2011,Nikon,1x,1,T1070018,C,R10,Mid,1of2,External,Tdicm,d,c
+2012_T1070018_C_R10_1of2_Tdicm_1x1_l_c,2012,Nikon,1x,1,T1070018,C,R10,Mid,1of2,External,Tdicm,l,c
+2014_T1070018_C_R10_2of2_Tdicm_1x1_d_c,2014,Nikon,1x,1,T1070018,C,R10,Mid,2of2,External,Tdicm,d,c
+2015_T1070018_C_R10_2of2_Tdicm_1x1_l_c,2015,Nikon,1x,1,T1070018,C,R10,Mid,2of2,External,Tdicm,l,c
+2017_T1070018_C_R11_2of2_Tdicm_1x1_d_c,2017,Nikon,1x,1,T1070018,C,R11,Mid,2of2,External,Tdicm,d,c
+2018_T1070018_C_R11_2of2_Tdicm_1x1_l_c,2018,Nikon,1x,1,T1070018,C,R11,Mid,2of2,External,Tdicm,l,c
+2020_T1070018_C_R16_1of2_Tdicm_1x1_d_c,2020,Nikon,1x,1,T1070018,C,R16,Top,1of2,External,Tdicm,d,c
+2021_T1070018_C_R16_1of2_Tdicm_1x1_l_c,2021,Nikon,1x,1,T1070018,C,R16,Top,1of2,External,Tdicm,l,c
+2023_T1070018_C_R17_1of1_Tdicm_1x1_d_c,2023,Nikon,1x,1,T1070018,C,R17,Top,1of1,Solo,Tdicm,d,c
+2024_T1070018_C_R17_1of1_Tdicm_1x1_l_c,2024,Nikon,1x,1,T1070018,C,R17,Top,1of1,Solo,Tdicm,l,c
+2026_T1070018_C_R18_1of1_Tdicm_1x1_d_c,2026,Nikon,1x,1,T1070018,C,R18,Top,1of1,Solo,Tdicm,d,c
+2027_T1070018_C_R18_1of1_Tdicm_1x1_l_c,2027,Nikon,1x,1,T1070018,C,R18,Top,1of1,Solo,Tdicm,l,c
+2758_TRI17251_B_R1_1of2_Tdicm_1x1_d_c,2758,Nikon,1x,1,TRI17251,B,R1,Base,1of2,External,Tdicm,d,c
+2759_TRI17251_B_R1_1of2_Tdicm_1x1_l_c,2759,Nikon,1x,1,TRI17251,B,R1,Base,1of2,External,Tdicm,l,c
+2761_TRI17251_B_R1_2of2_Tdicm_1x1_d_c,2761,Nikon,1x,1,TRI17251,B,R1,Base,2of2,External,Tdicm,d,c
+2762_TRI17251_B_R1_2of2_Tdicm_1x1_l_c,2762,Nikon,1x,1,TRI17251,B,R1,Base,2of2,External,Tdicm,l,c
+2764_TRI17251_B_R2_2of2_Tdicm_1x1_d_c,2764,Nikon,1x,1,TRI17251,B,R2,Base,2of2,External,Tdicm,d,c
+2765_TRI17251_B_R2_2of2_Tdicm_1x1_l_c,2765,Nikon,1x,1,TRI17251,B,R2,Base,2of2,External,Tdicm,l,c
+2767_TRI17251_B_R11_1of2_Tdicm_1x1_d_c,2767,Nikon,1x,1,TRI17251,B,R11,Mid,1of2,External,Tdicm,d,c
+2768_TRI17251_B_R11_1of2_Tdicm_1x1_l_c,2768,Nikon,1x,1,TRI17251,B,R11,Mid,1of2,External,Tdicm,l,c
+2770_TRI17251_B_R11_2of2_Tdicm_1x1_d_c,2770,Nikon,1x,1,TRI17251,B,R11,Mid,2of2,External,Tdicm,d,c
+2771_TRI17251_B_R11_2of2_Tdicm_1x1_l_c,2771,Nikon,1x,1,TRI17251,B,R11,Mid,2of2,External,Tdicm,l,c
+2773_TRI17251_B_R12_1of2_Tdicm_1x1_d_c,2773,Nikon,1x,1,TRI17251,B,R12,Mid,1of2,External,Tdicm,d,c
+2774_TRI17251_B_R12_1of2_Tdicm_1x1_l_c,2774,Nikon,1x,1,TRI17251,B,R12,Mid,1of2,External,Tdicm,l,c
+2776_TRI17251_B_R20_1of2_Tdicm_1x1_d_c,2776,Nikon,1x,1,TRI17251,B,R20,Top,1of2,External,Tdicm,d,c
+2777_TRI17251_B_R20_1of2_Tdicm_1x1_l_c,2777,Nikon,1x,1,TRI17251,B,R20,Top,1of2,External,Tdicm,l,c
+2779_TRI17251_B_R20_2of2_Tdicm_1x1_d_c,2779,Nikon,1x,1,TRI17251,B,R20,Top,2of2,External,Tdicm,d,c
+2780_TRI17251_B_R20_2of2_Tdicm_1x1_l_c,2780,Nikon,1x,1,TRI17251,B,R20,Top,2of2,External,Tdicm,l,c
+2782_TRI17251_B_R21_1of1_Tdicm_1x1_d_c,2782,Nikon,1x,1,TRI17251,B,R21,Top,1of1,Solo,Tdicm,d,c
+2783_TRI17251_B_R21_1of1_Tdicm_1x1_l_c,2783,Nikon,1x,1,TRI17251,B,R21,Top,1of1,Solo,Tdicm,l,c
+2785_TRI17251_C_R1_1of2_Tdicm_1x1_d_c,2785,Nikon,1x,1,TRI17251,C,R1,Base,1of2,External,Tdicm,d,c
+2786_TRI17251_C_R1_1of2_Tdicm_1x1_l_c,2786,Nikon,1x,1,TRI17251,C,R1,Base,1of2,External,Tdicm,l,c
+2788_TRI17251_C_R1_2of2_Tdicm_1x1_d_c,2788,Nikon,1x,1,TRI17251,C,R1,Base,2of2,External,Tdicm,d,c
+2789_TRI17251_C_R1_2of2_Tdicm_1x1_l_c,2789,Nikon,1x,1,TRI17251,C,R1,Base,2of2,External,Tdicm,l,c
+2791_TRI17251_C_R2_1of2_Tdicm_1x1_d_c,2791,Nikon,1x,1,TRI17251,C,R2,Base,1of2,External,Tdicm,d,c
+2792_TRI17251_C_R2_1of2_Tdicm_1x1_l_c,2792,Nikon,1x,1,TRI17251,C,R2,Base,1of2,External,Tdicm,l,c
+2794_TRI17251_C_R7_1of2_Tdicm_1x1_d_c,2794,Nikon,1x,1,TRI17251,C,R7,Mid,1of2,External,Tdicm,d,c
+2795_TRI17251_C_R7_1of2_Tdicm_1x1_l_c,2795,Nikon,1x,1,TRI17251,C,R7,Mid,1of2,External,Tdicm,l,c
+2797_TRI17251_C_R7_2of2_Tdicm_1x1_d_c,2797,Nikon,1x,1,TRI17251,C,R7,Mid,2of2,External,Tdicm,d,c
+2798_TRI17251_C_R7_2of2_Tdicm_1x1_l_c,2798,Nikon,1x,1,TRI17251,C,R7,Mid,2of2,External,Tdicm,l,c
+2800_TRI17251_C_R8_2of3_Tdicm_1x1_d_c,2800,Nikon,1x,1,TRI17251,C,R8,Mid,2of3,Internal,Tdicm,d,c
+2801_TRI17251_C_R8_2of3_Tdicm_1x1_l_c,2801,Nikon,1x,1,TRI17251,C,R8,Mid,2of3,Internal,Tdicm,l,c
+2803_TRI17251_C_R12_1of2_Tdicm_1x1_d_c,2803,Nikon,1x,1,TRI17251,C,R12,Top,1of2,External,Tdicm,d,c
+2804_TRI17251_C_R12_1of2_Tdicm_1x1_l_c,2804,Nikon,1x,1,TRI17251,C,R12,Top,1of2,External,Tdicm,l,c
+2806_TRI17251_C_R13_1of1_Tdicm_1x1_d_c,2806,Nikon,1x,1,TRI17251,C,R13,Top,1of1,Solo,Tdicm,d,c
+2807_TRI17251_C_R13_1of1_Tdicm_1x1_l_c,2807,Nikon,1x,1,TRI17251,C,R13,Top,1of1,Solo,Tdicm,l,c
+2809_TRI17251_C_R14_1of1_Tdicm_1x1_d_c,2809,Nikon,1x,1,TRI17251,C,R14,Top,1of1,Solo,Tdicm,d,c
+2810_TRI17251_C_R14_1of1_Tdicm_1x1_l_c,2810,Nikon,1x,1,TRI17251,C,R14,Top,1of1,Solo,Tdicm,l,c
+2974_CGN10497_VB13__1of2_Timo_1x1_d_c,2974,Nikon,1x,1,CGN10497,VB13,,Base,1of2,External,Timo,d,c
+2975_CGN10497_VB13__1of2_Timo_1x1_l_c,2975,Nikon,1x,1,CGN10497,VB13,,Base,1of2,External,Timo,l,c
+2977_CGN10497_VB13__2of2_Timo_1x1_d_c,2977,Nikon,1x,1,CGN10497,VB13,,Base,2of2,External,Timo,d,c
+2978_CGN10497_VB13__2of2_Timo_1x1_l_c,2978,Nikon,1x,1,CGN10497,VB13,,Base,2of2,External,Timo,l,c
+2980_CGN10497_VB12__1of1_Timo_1x1_d_c,2980,Nikon,1x,1,CGN10497,VB12,,Base,1of1,Solo,Timo,d,c
+2981_CGN10497_VB12__1of1_Timo_1x1_l_c,2981,Nikon,1x,1,CGN10497,VB12,,Base,1of1,Solo,Timo,l,c
+2983_CGN10497_VB11__1of2_Timo_1x1_d_c,2983,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,d,c
+2984_CGN10497_VB11__1of2_Timo_1x1_l_c,2984,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,l,c
+2986_CGN10497_VB11__2of2_Timo_1x1_d_c,2986,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,d,c
+2987_CGN10497_VB11__2of2_Timo_1x1_l_c,2987,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,l,c
+2989_CGN10497_VB11__1of2_Timo_1x1_d_c,2989,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,d,c
+2990_CGN10497_VB11__1of2_Timo_1x1_l_c,2990,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,l,c
+2992_CGN10497_VB11__2of2_Timo_1x1_d_c,2992,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,d,c
+2993_CGN10497_VB11__2of2_Timo_1x1_l_c,2993,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,l,c
+2995_CGN10497_VB11__1of2_Timo_1x1_d_c,2995,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,d,c
+2996_CGN10497_VB11__1of2_Timo_1x1_l_c,2996,Nikon,1x,1,CGN10497,VB11,,Base,1of2,External,Timo,l,c
+2998_CGN10497_VB11__2of2_Timo_1x1_d_c,2998,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,d,c
+2999_CGN10497_VB11__2of2_Timo_1x1_l_c,2999,Nikon,1x,1,CGN10497,VB11,,Base,2of2,External,Timo,l,c
+3001_CGN10497_VB7__1of2_Timo_1x1_d_c,3001,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,d,c
+3002_CGN10497_VB7__1of2_Timo_1x1_l_c,3002,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,l,c
+3004_CGN10497_VB7__2of2_Timo_1x1_d_c,3004,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,d,c
+3005_CGN10497_VB7__2of2_Timo_1x1_l_c,3005,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,l,c
+3007_CGN10497_VB7__1of2_Timo_1x1_d_c,3007,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,d,c
+3008_CGN10497_VB7__1of2_Timo_1x1_l_c,3008,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,l,c
+3010_CGN10497_VB7__2of2_Timo_1x1_d_c,3010,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,d,c
+3011_CGN10497_VB7__2of2_Timo_1x1_l_c,3011,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,l,c
+3013_CGN10497_VB7__1of2_Timo_1x1_d_c,3013,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,d,c
+3014_CGN10497_VB7__1of2_Timo_1x1_l_c,3014,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,l,c
+3016_CGN10497_VB7__2of2_Timo_1x1_d_c,3016,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,d,c
+3017_CGN10497_VB7__2of2_Timo_1x1_l_c,3017,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,l,c
+3019_CGN10497_VB7__1of2_Timo_1x1_d_c,3019,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,d,c
+3020_CGN10497_VB7__1of2_Timo_1x1_l_c,3020,Nikon,1x,1,CGN10497,VB7,,Mid,1of2,External,Timo,l,c
+3022_CGN10497_VB7__2of2_Timo_1x1_d_c,3022,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,d,c
+3023_CGN10497_VB7__2of2_Timo_1x1_l_c,3023,Nikon,1x,1,CGN10497,VB7,,Mid,2of2,External,Timo,l,c
+3025_CGN10497_VB8__2of2_Timo_1x1_d_c,3025,Nikon,1x,1,CGN10497,VB8,,Mid,2of2,External,Timo,d,c
+3026_CGN10497_VB8__2of2_Timo_1x1_l_c,3026,Nikon,1x,1,CGN10497,VB8,,Mid,2of2,External,Timo,l,c
+3028_CGN10497_-__1of2_Timo_1x1_d_c,3028,Nikon,1x,1,CGN10497,-,,Top,1of2,External,Timo,d,c
+3029_CGN10497_-__1of2_Timo_1x1_l_c,3029,Nikon,1x,1,CGN10497,-,,Top,1of2,External,Timo,l,c
+3031_CGN10497_-__2of2_Timo_1x1_d_c,3031,Nikon,1x,1,CGN10497,-,,Top,2of2,External,Timo,d,c
+3032_CGN10497_-__2of2_Timo_1x1_l_c,3032,Nikon,1x,1,CGN10497,-,,Top,2of2,External,Timo,l,c
+3034_CGN10497_-__1of1_Timo_1x1_d_c,3034,Nikon,1x,1,CGN10497,-,,Top,1of1,Solo,Timo,d,c
+3035_CGN10497_-__1of1_Timo_1x1_l_c,3035,Nikon,1x,1,CGN10497,-,,Top,1of1,Solo,Timo,l,c
+3037_CGN10497_-__1of1_Timo_1x1_d_c,3037,Nikon,1x,1,CGN10497,-,,Top,1of1,Solo,Timo,d,c
+3038_CGN10497_-__1of1_Timo_1x1_l_c,3038,Nikon,1x,1,CGN10497,-,,Top,1of1,Solo,Timo,l,c
+3040_CGN10497_VB2__1of1_Timo_1x1_d_c,3040,Nikon,1x,1,CGN10497,VB2,,Top,1of1,Solo,Timo,d,c
+3041_CGN10497_VB2__1of1_Timo_1x1_l_c,3041,Nikon,1x,1,CGN10497,VB2,,Top,1of1,Solo,Timo,l,c
+3043_CGN10497_VB2__1of1_Timo_1x1_d_c,3043,Nikon,1x,1,CGN10497,VB2,,Top,1of1,Solo,Timo,d,c
+3044_CGN10497_VB2__1of1_Timo_1x1_l_c,3044,Nikon,1x,1,CGN10497,VB2,,Top,1of1,Solo,Timo,l,c
+3046_CGN10497_VB3__1of1_Timo_1x1_d_c,3046,Nikon,1x,1,CGN10497,VB3,,Top,1of1,Solo,Timo,d,c
+3047_CGN10497_VB3__1of1_Timo_1x1_l_c,3047,Nikon,1x,1,CGN10497,VB3,,Top,1of1,Solo,Timo,l,c
+3049_CGN10497_VB4__1of2_Timo_1x1_d_c,3049,Nikon,1x,1,CGN10497,VB4,,Top,1of2,External,Timo,d,c
+3050_CGN10497_VB4__1of2_Timo_1x1_l_c,3050,Nikon,1x,1,CGN10497,VB4,,Top,1of2,External,Timo,l,c
+3052_CGN10497_VB4__2of2_Timo_1x1_d_c,3052,Nikon,1x,1,CGN10497,VB4,,Top,2of2,External,Timo,d,c
+3053_CGN10497_VB4__2of2_Timo_1x1_l_c,3053,Nikon,1x,1,CGN10497,VB4,,Top,2of2,External,Timo,l,c
+3055_PI434999_A_R1_1of1_Tdicm_1x1_d_c,3055,Nikon,1x,1,PI434999,A,R1,Base,1of1,Solo,Tdicm,d,c
+3056_PI434999_A_R1_1of1_Tdicm_1x1_l_c,3056,Nikon,1x,1,PI434999,A,R1,Base,1of1,Solo,Tdicm,l,c
+3058_PI434999_A_R2_1of1_Tdicm_1x1_d_c,3058,Nikon,1x,1,PI434999,A,R2,Base,1of1,Solo,Tdicm,d,c
+3059_PI434999_A_R2_1of1_Tdicm_1x1_l_c,3059,Nikon,1x,1,PI434999,A,R2,Base,1of1,Solo,Tdicm,l,c
+3061_PI434999_A_R3_1of2_Tdicm_1x1_d_c,3061,Nikon,1x,1,PI434999,A,R3,Base,1of2,External,Tdicm,d,c
+3062_PI434999_A_R3_1of2_Tdicm_1x1_l_c,3062,Nikon,1x,1,PI434999,A,R3,Base,1of2,External,Tdicm,l,c
+3064_PI434999_A_R7_1of2_Tdicm_1x1_d_c,3064,Nikon,1x,1,PI434999,A,R7,Mid,1of2,External,Tdicm,d,c
+3065_PI434999_A_R7_1of2_Tdicm_1x1_l_c,3065,Nikon,1x,1,PI434999,A,R7,Mid,1of2,External,Tdicm,l,c
+3067_PI434999_A_R7_2of2_Tdicm_1x1_d_c,3067,Nikon,1x,1,PI434999,A,R7,Mid,2of2,External,Tdicm,d,c
+3068_PI434999_A_R7_2of2_Tdicm_1x1_l_c,3068,Nikon,1x,1,PI434999,A,R7,Mid,2of2,External,Tdicm,l,c
+3070_PI434999_A_R8_2of2_Tdicm_1x1_d_c,3070,Nikon,1x,1,PI434999,A,R8,Mid,2of2,External,Tdicm,d,c
+3071_PI434999_A_R8_2of2_Tdicm_1x1_l_c,3071,Nikon,1x,1,PI434999,A,R8,Mid,2of2,External,Tdicm,l,c
+3073_PI434999_A_R13_1of2_Tdicm_1x1_d_c,3073,Nikon,1x,1,PI434999,A,R13,Top,1of2,External,Tdicm,d,c
+3074_PI434999_A_R13_1of2_Tdicm_1x1_l_c,3074,Nikon,1x,1,PI434999,A,R13,Top,1of2,External,Tdicm,l,c
+3076_PI434999_A_R13_2of2_Tdicm_1x1_d_c,3076,Nikon,1x,1,PI434999,A,R13,Top,2of2,External,Tdicm,d,c
+3077_PI434999_A_R13_2of2_Tdicm_1x1_l_c,3077,Nikon,1x,1,PI434999,A,R13,Top,2of2,External,Tdicm,l,c
+3079_PI434999_A_R14_1of1_Tdicm_1x1_d_c,3079,Nikon,1x,1,PI434999,A,R14,Top,1of1,Solo,Tdicm,d,c
+3080_PI434999_A_R14_1of1_Tdicm_1x1_l_c,3080,Nikon,1x,1,PI434999,A,R14,Top,1of1,Solo,Tdicm,l,c
+3082_PI434999_B_R1_1of1_Tdicm_1x1_d_c,3082,Nikon,1x,1,PI434999,B,R1,Base,1of1,Solo,Tdicm,d,c
+3083_PI434999_B_R1_1of1_Tdicm_1x1_l_c,3083,Nikon,1x,1,PI434999,B,R1,Base,1of1,Solo,Tdicm,l,c
+3085_PI434999_B_R2_1of2_Tdicm_1x1_d_c,3085,Nikon,1x,1,PI434999,B,R2,Base,1of2,External,Tdicm,d,c
+3086_PI434999_B_R2_1of2_Tdicm_1x1_l_c,3086,Nikon,1x,1,PI434999,B,R2,Base,1of2,External,Tdicm,l,c
+3088_PI434999_B_R2_2of2_Tdicm_1x1_d_c,3088,Nikon,1x,1,PI434999,B,R2,Base,2of2,External,Tdicm,d,c
+3089_PI434999_B_R2_2of2_Tdicm_1x1_l_c,3089,Nikon,1x,1,PI434999,B,R2,Base,2of2,External,Tdicm,l,c
+3091_PI434999_B_R8_1of1_Tdicm_1x1_d_c,3091,Nikon,1x,1,PI434999,B,R8,Mid,1of1,Solo,Tdicm,d,c
+3092_PI434999_B_R8_1of1_Tdicm_1x1_l_c,3092,Nikon,1x,1,PI434999,B,R8,Mid,1of1,Solo,Tdicm,l,c
+3094_PI434999_B_R9_1of2_Tdicm_1x1_d_c,3094,Nikon,1x,1,PI434999,B,R9,Mid,1of2,External,Tdicm,d,c
+3095_PI434999_B_R9_1of2_Tdicm_1x1_l_c,3095,Nikon,1x,1,PI434999,B,R9,Mid,1of2,External,Tdicm,l,c
+3097_PI434999_B_R9_2of2_Tdicm_1x1_d_c,3097,Nikon,1x,1,PI434999,B,R9,Mid,2of2,External,Tdicm,d,c
+3098_PI434999_B_R9_2of2_Tdicm_1x1_l_c,3098,Nikon,1x,1,PI434999,B,R9,Mid,2of2,External,Tdicm,l,c
+3100_PI434999_B_R14_1of2_Tdicm_1x1_d_c,3100,Nikon,1x,1,PI434999,B,R14,Top,1of2,External,Tdicm,d,c
+3101_PI434999_B_R14_1of2_Tdicm_1x1_l_c,3101,Nikon,1x,1,PI434999,B,R14,Top,1of2,External,Tdicm,l,c
+3103_PI434999_B_R14_2of2_Tdicm_1x1_d_c,3103,Nikon,1x,1,PI434999,B,R14,Top,2of2,External,Tdicm,d,c
+3104_PI434999_B_R14_2of2_Tdicm_1x1_l_c,3104,Nikon,1x,1,PI434999,B,R14,Top,2of2,External,Tdicm,l,c
+3106_PI434999_B_R15_1of1_Tdicm_1x1_d_c,3106,Nikon,1x,1,PI434999,B,R15,Top,1of1,Solo,Tdicm,d,c
+3107_PI434999_B_R15_1of1_Tdicm_1x1_l_c,3107,Nikon,1x,1,PI434999,B,R15,Top,1of1,Solo,Tdicm,l,c
+3109_PI434999_C_R1_1of2_Tdicm_1x1_d_c,3109,Nikon,1x,1,PI434999,C,R1,Base,1of2,External,Tdicm,d,c
+3110_PI434999_C_R1_1of2_Tdicm_1x1_l_c,3110,Nikon,1x,1,PI434999,C,R1,Base,1of2,External,Tdicm,l,c
+3112_PI434999_C_R1_2of2_Tdicm_1x1_d_c,3112,Nikon,1x,1,PI434999,C,R1,Base,2of2,External,Tdicm,d,c
+3113_PI434999_C_R1_2of2_Tdicm_1x1_l_c,3113,Nikon,1x,1,PI434999,C,R1,Base,2of2,External,Tdicm,l,c
+3115_PI434999_C_R2_1of2_Tdicm_1x1_d_c,3115,Nikon,1x,1,PI434999,C,R2,Base,1of2,External,Tdicm,d,c
+3116_PI434999_C_R2_1of2_Tdicm_1x1_l_c,3116,Nikon,1x,1,PI434999,C,R2,Base,1of2,External,Tdicm,l,c
+3118_PI434999_C_R6_1of2_Tdicm_1x1_d_c,3118,Nikon,1x,1,PI434999,C,R6,Mid,1of2,External,Tdicm,d,c
+3119_PI434999_C_R6_1of2_Tdicm_1x1_l_c,3119,Nikon,1x,1,PI434999,C,R6,Mid,1of2,External,Tdicm,l,c
+3121_PI434999_C_R6_2of2_Tdicm_1x1_d_c,3121,Nikon,1x,1,PI434999,C,R6,Mid,2of2,External,Tdicm,d,c
+3122_PI434999_C_R6_2of2_Tdicm_1x1_l_c,3122,Nikon,1x,1,PI434999,C,R6,Mid,2of2,External,Tdicm,l,c
+3124_PI434999_C_R7_2of2_Tdicm_1x1_d_c,3124,Nikon,1x,1,PI434999,C,R7,Mid,2of2,External,Tdicm,d,c
+3125_PI434999_C_R7_2of2_Tdicm_1x1_l_c,3125,Nikon,1x,1,PI434999,C,R7,Mid,2of2,External,Tdicm,l,c
+3127_PI434999_C_R11_1of2_Tdicm_1x1_d_c,3127,Nikon,1x,1,PI434999,C,R11,Top,1of2,External,Tdicm,d,c
+3128_PI434999_C_R11_1of2_Tdicm_1x1_l_c,3128,Nikon,1x,1,PI434999,C,R11,Top,1of2,External,Tdicm,l,c
+3130_PI434999_C_R11_2of2_Tdicm_1x1_d_c,3130,Nikon,1x,1,PI434999,C,R11,Top,2of2,External,Tdicm,d,c
+3131_PI434999_C_R11_2of2_Tdicm_1x1_l_c,3131,Nikon,1x,1,PI434999,C,R11,Top,2of2,External,Tdicm,l,c
+3133_PI434999_C_R12_1of1_Tdicm_1x1_d_c,3133,Nikon,1x,1,PI434999,C,R12,Top,1of1,Solo,Tdicm,d,c
+3134_PI434999_C_R12_1of1_Tdicm_1x1_l_c,3134,Nikon,1x,1,PI434999,C,R12,Top,1of1,Solo,Tdicm,l,c
+3496_TRI117251_D_R1_1of2_Tdicm_1x1_d_glm,3496,Nikon,1x,1,TRI117251,D,R1,Base,1of2,External,Tdicm_glm,d,glm
+3497_TRI117251_D_R1_1of2_Tdicm_1x1_l_glm,3497,Nikon,1x,1,TRI117251,D,R1,Base,1of2,External,Tdicm_glm,l,glm
+3499_TRI117251_D_R1_2of2_Tdicm_1x1_d_glm,3499,Nikon,1x,1,TRI117251,D,R1,Base,2of2,External,Tdicm_glm,d,glm
+3500_TRI117251_D_R1_2of2_Tdicm_1x1_l_glm,3500,Nikon,1x,1,TRI117251,D,R1,Base,2of2,External,Tdicm_glm,l,glm
+3501_TRI117251_D_R1_1of2_Tdicm_1x1_d_glm,3501,Nikon,1x,1,TRI117251,D,R1,Base,1of2,External,Tdicm_glm,d,glm
+3502_TRI117251_D_R2_1of2_Tdicm_1x1_l_glm,3502,Nikon,1x,1,TRI117251,D,R2,Base,1of2,External,Tdicm_glm,l,glm
+3503_TRI117251_D_R8_1of2_Tdicm_1x1_d_glm,3503,Nikon,1x,1,TRI117251,D,R8,Mid,1of2,External,Tdicm_glm,d,glm
+3504_TRI117251_D_R8_1of2_Tdicm_1x1_l_glm,3504,Nikon,1x,1,TRI117251,D,R8,Mid,1of2,External,Tdicm_glm,l,glm
+3505_TRI117251_D_R8_2of2_Tdicm_1x1_d_glm,3505,Nikon,1x,1,TRI117251,D,R8,Mid,2of2,External,Tdicm_glm,d,glm
+3506_TRI117251_D_R8_2of2_Tdicm_1x1_l_glm,3506,Nikon,1x,1,TRI117251,D,R8,Mid,2of2,External,Tdicm_glm,l,glm
+3507_TRI117251_D_R9_1of3_Tdicm_1x1_d_glm,3507,Nikon,1x,1,TRI117251,D,R9,Mid,1of3,External,Tdicm_glm,d,glm
+3508_TRI117251_D_R9_1of3_Tdicm_1x1_l_glm,3508,Nikon,1x,1,TRI117251,D,R9,Mid,1of3,External,Tdicm_glm,l,glm
+3509_TRI117251_D_R16_1of2_Tdicm_1x1_d_glm,3509,Nikon,1x,1,TRI117251,D,R16,Top,1of2,External,Tdicm_glm,d,glm
+3510_TRI117251_D_R16_1of2_Tdicm_1x1_l_glm,3510,Nikon,1x,1,TRI117251,D,R16,Top,1of2,External,Tdicm_glm,l,glm
+3511_TRI117251_D_R16_2of2_Tdicm_1x1_d_glm,3511,Nikon,1x,1,TRI117251,D,R16,Top,2of2,External,Tdicm_glm,d,glm
+3512_TRI117251_D_R16_2of2_Tdicm_1x1_l_glm,3512,Nikon,1x,1,TRI117251,D,R16,Top,2of2,External,Tdicm_glm,l,glm
+3513_TRI117251_D_R15_2of2_Tdicm_1x1_d_glm,3513,Nikon,1x,1,TRI117251,D,R15,Top,2of2,External,Tdicm_glm,d,glm
+3514_TRI117251_D_R15_2of2_Tdicm_1x1_l_glm,3514,Nikon,1x,1,TRI117251,D,R15,Top,2of2,External,Tdicm_glm,l,glm
+3515_TRI117251_E_R1_1of2_Tdicm_1x1_d_glm,3515,Nikon,1x,1,TRI117251,E,R1,Base,1of2,External,Tdicm_glm,d,glm
+3516_TRI117251_E_R1_1of2_Tdicm_1x1_l_glm,3516,Nikon,1x,1,TRI117251,E,R1,Base,1of2,External,Tdicm_glm,l,glm
+3517_TRI117251_E_R1_2of2_Tdicm_1x1_d_glm,3517,Nikon,1x,1,TRI117251,E,R1,Base,2of2,External,Tdicm_glm,d,glm
+3518_TRI117251_E_R1_2of2_Tdicm_1x1_l_glm,3518,Nikon,1x,1,TRI117251,E,R1,Base,2of2,External,Tdicm_glm,l,glm
+3519_TRI117251_E_R2_1of2_Tdicm_1x1_d_glm,3519,Nikon,1x,1,TRI117251,E,R2,Base,1of2,External,Tdicm_glm,d,glm
+3520_TRI117251_E_R2_1of2_Tdicm_1x1_l_glm,3520,Nikon,1x,1,TRI117251,E,R2,Base,1of2,External,Tdicm_glm,l,glm
+3521_TRI117251_E_R11_1of2_Tdicm_1x1_d_glm,3521,Nikon,1x,1,TRI117251,E,R11,Mid,1of2,External,Tdicm_glm,d,glm
+3522_TRI117251_E_R11_1of2_Tdicm_1x1_l_glm,3522,Nikon,1x,1,TRI117251,E,R11,Mid,1of2,External,Tdicm_glm,l,glm
+3523_TRI117251_E_R11_2of2_Tdicm_1x1_d_glm,3523,Nikon,1x,1,TRI117251,E,R11,Mid,2of2,External,Tdicm_glm,d,glm
+3524_TRI117251_E_R11_2of2_Tdicm_1x1_l_glm,3524,Nikon,1x,1,TRI117251,E,R11,Mid,2of2,External,Tdicm_glm,l,glm
+3525_TRI117251_E_R12_2of2_Tdicm_1x1_d_glm,3525,Nikon,1x,1,TRI117251,E,R12,Mid,2of2,External,Tdicm_glm,d,glm
+3526_TRI117251_E_R12_2of2_Tdicm_1x1_l_glm,3526,Nikon,1x,1,TRI117251,E,R12,Mid,2of2,External,Tdicm_glm,l,glm
+3527_TRI117251_E_R22_1of1_Tdicm_1x1_d_glm,3527,Nikon,1x,1,TRI117251,E,R22,Top,1of1,Solo,Tdicm_glm,d,glm
+3528_TRI117251_E_R22_1of1_Tdicm_1x1_l_glm,3528,Nikon,1x,1,TRI117251,E,R22,Top,1of1,Solo,Tdicm_glm,l,glm
+3529_TRI117251_E_R21_1of2_Tdicm_1x1_d_glm,3529,Nikon,1x,1,TRI117251,E,R21,Top,1of2,External,Tdicm_glm,d,glm
+3530_TRI117251_E_R21_1of2_Tdicm_1x1_l_glm,3530,Nikon,1x,1,TRI117251,E,R21,Top,1of2,External,Tdicm_glm,l,glm
+3531_TRI117251_E_R21_2of2_Tdicm_1x1_d_glm,3531,Nikon,1x,1,TRI117251,E,R21,Top,2of2,External,Tdicm_glm,d,glm
+3532_TRI117251_E_R21_2of2_Tdicm_1x1_l_glm,3532,Nikon,1x,1,TRI117251,E,R21,Top,2of2,External,Tdicm_glm,l,glm
+3533_TRI117251_F_R1_1of1_Tdicm_1x1_d_glm,3533,Nikon,1x,1,TRI117251,F,R1,Base,1of1,Solo,Tdicm_glm,d,glm
+3534_TRI117251_F_R1_1of1_Tdicm_1x1_l_glm,3534,Nikon,1x,1,TRI117251,F,R1,Base,1of1,Solo,Tdicm_glm,l,glm
+3535_TRI117251_F_R2_1of3_Tdicm_1x1_d_glm,3535,Nikon,1x,1,TRI117251,F,R2,Base,1of3,External,Tdicm_glm,d,glm
+3536_TRI117251_F_R2_1of3_Tdicm_1x1_l_glm,3536,Nikon,1x,1,TRI117251,F,R2,Base,1of3,External,Tdicm_glm,l,glm
+3537_TRI117251_F_R2_3of3_Tdicm_1x1_d_glm,3537,Nikon,1x,1,TRI117251,F,R2,Base,3of3,External,Tdicm_glm,d,glm
+3538_TRI117251_F_R2_3of3_Tdicm_1x1_l_glm,3538,Nikon,1x,1,TRI117251,F,R2,Base,3of3,External,Tdicm_glm,l,glm
+3539_TRI117251_F_R9_1of3_Tdicm_1x1_d_glm,3539,Nikon,1x,1,TRI117251,F,R9,Mid,1of3,External,Tdicm_glm,d,glm
+3540_TRI117251_F_R9_1of3_Tdicm_1x1_l_glm,3540,Nikon,1x,1,TRI117251,F,R9,Mid,1of3,External,Tdicm_glm,l,glm
+3541_TRI117251_F_R9_2of3_Tdicm_1x1_d_glm,3541,Nikon,1x,1,TRI117251,F,R9,Mid,2of3,Internal,Tdicm_glm,d,glm
+3542_TRI117251_F_R9_2of3_Tdicm_1x1_l_glm,3542,Nikon,1x,1,TRI117251,F,R9,Mid,2of3,Internal,Tdicm_glm,l,glm
+3543_TRI117251_F_R9_3of3_Tdicm_1x1_d_glm,3543,Nikon,1x,1,TRI117251,F,R9,Mid,3of3,External,Tdicm_glm,d,glm
+3544_TRI117251_F_R9_3of3_Tdicm_1x1_l_glm,3544,Nikon,1x,1,TRI117251,F,R9,Mid,3of3,External,Tdicm_glm,l,glm
+3545_TRI117251_F_R18_1of2_Tdicm_1x1_d_glm,3545,Nikon,1x,1,TRI117251,F,R18,Top,1of2,External,Tdicm_glm,d,glm
+3546_TRI117251_F_R18_1of2_Tdicm_1x1_l_glm,3546,Nikon,1x,1,TRI117251,F,R18,Top,1of2,External,Tdicm_glm,l,glm
+3547_TRI117251_F_R18_2of2_Tdicm_1x1_d_glm,3547,Nikon,1x,1,TRI117251,F,R18,Top,2of2,External,Tdicm_glm,d,glm
+3548_TRI117251_F_R18_2of2_Tdicm_1x1_l_glm,3548,Nikon,1x,1,TRI117251,F,R18,Top,2of2,External,Tdicm_glm,l,glm
+3549_TRI117251_F_R17_1of1_Tdicm_1x1_d_glm,3549,Nikon,1x,1,TRI117251,F,R17,Top,1of1,Solo,Tdicm_glm,d,glm
+3550_TRI117251_F_R17_1of1_Tdicm_1x1_l_glm,3550,Nikon,1x,1,TRI117251,F,R17,Top,1of1,Solo,Tdicm_glm,l,glm
+4043_TRI677_D_R1_1of2_Timo_1x1_d_glm,4043,Nikon,1x,1,TRI677,D,R1,Base,1of2,External,Timo_glm,d,glm
+4044_TRI677_D_R1_1of2_Timo_1x1_l_glm,4044,Nikon,1x,1,TRI677,D,R1,Base,1of2,External,Timo_glm,l,glm
+4045_TRI677_D_R1_2of2_Timo_1x1_d_glm,4045,Nikon,1x,1,TRI677,D,R1,Base,2of2,External,Timo_glm,d,glm
+4046_TRI677_D_R1_2of2_Timo_1x1_l_glm,4046,Nikon,1x,1,TRI677,D,R1,Base,2of2,External,Timo_glm,l,glm
+4047_TRI677_D_R2_1of2_Timo_1x1_d_glm,4047,Nikon,1x,1,TRI677,D,R2,Base,1of2,External,Timo_glm,d,glm
+4048_TRI677_D_R2_1of2_Timo_1x1_l_glm,4048,Nikon,1x,1,TRI677,D,R2,Base,1of2,External,Timo_glm,l,glm
+4049_TRI677_D_R8_1of2_Timo_1x1_d_glm,4049,Nikon,1x,1,TRI677,D,R8,Mid,1of2,External,Timo_glm,d,glm
+4050_TRI677_D_R8_1of2_Timo_1x1_l_glm,4050,Nikon,1x,1,TRI677,D,R8,Mid,1of2,External,Timo_glm,l,glm
+4051_TRI677_D_R8_2of2_Timo_1x1_d_glm,4051,Nikon,1x,1,TRI677,D,R8,Mid,2of2,External,Timo_glm,d,glm
+4052_TRI677_D_R8_2of2_Timo_1x1_l_glm,4052,Nikon,1x,1,TRI677,D,R8,Mid,2of2,External,Timo_glm,l,glm
+4053_TRI677_D_R9_2of2_Timo_1x1_d_glm,4053,Nikon,1x,1,TRI677,D,R9,Mid,2of2,External,Timo_glm,d,glm
+4054_TRI677_D_R9_2of2_Timo_1x1_l_glm,4054,Nikon,1x,1,TRI677,D,R9,Mid,2of2,External,Timo_glm,l,glm
+4055_TRI677_D_R16_1of1_Timo_1x1_d_glm,4055,Nikon,1x,1,TRI677,D,R16,Top,1of1,Solo,Timo_glm,d,glm
+4056_TRI677_D_R16_1of1_Timo_1x1_l_glm,4056,Nikon,1x,1,TRI677,D,R16,Top,1of1,Solo,Timo_glm,l,glm
+4057_TRI677_D_R15_1of2_Timo_1x1_d_glm,4057,Nikon,1x,1,TRI677,D,R15,Top,1of2,External,Timo_glm,d,glm
+4058_TRI677_D_R15_1of2_Timo_1x1_l_glm,4058,Nikon,1x,1,TRI677,D,R15,Top,1of2,External,Timo_glm,l,glm
+4059_TRI677_D_R15_2of2_Timo_1x1_d_glm,4059,Nikon,1x,1,TRI677,D,R15,Top,2of2,External,Timo_glm,d,glm
+4060_TRI677_D_R15_2of2_Timo_1x1_l_glm,4060,Nikon,1x,1,TRI677,D,R15,Top,2of2,External,Timo_glm,l,glm
+4061_TRI677_E_R1_1of1_Timo_1x1_d_glm,4061,Nikon,1x,1,TRI677,E,R1,Base,1of1,Solo,Timo_glm,d,glm
+4062_TRI677_E_R1_1of1_Timo_1x1_l_glm,4062,Nikon,1x,1,TRI677,E,R1,Base,1of1,Solo,Timo_glm,l,glm
+4063_TRI677_E_R2_1of2_Timo_1x1_d_glm,4063,Nikon,1x,1,TRI677,E,R2,Base,1of2,External,Timo_glm,d,glm
+4064_TRI677_E_R2_1of2_Timo_1x1_l_glm,4064,Nikon,1x,1,TRI677,E,R2,Base,1of2,External,Timo_glm,l,glm
+4065_TRI677_E_R2_2of2_Timo_1x1_d_glm,4065,Nikon,1x,1,TRI677,E,R2,Base,2of2,External,Timo_glm,d,glm
+4066_TRI677_E_R2_2of2_Timo_1x1_l_glm,4066,Nikon,1x,1,TRI677,E,R2,Base,2of2,External,Timo_glm,l,glm
+4067_TRI677_E_R7_1of2_Timo_1x1_d_glm,4067,Nikon,1x,1,TRI677,E,R7,Mid,1of2,External,Timo_glm,d,glm
+4068_TRI677_E_R7_1of2_Timo_1x1_l_glm,4068,Nikon,1x,1,TRI677,E,R7,Mid,1of2,External,Timo_glm,l,glm
+4069_TRI677_E_R7_2of2_Timo_1x1_d_glm,4069,Nikon,1x,1,TRI677,E,R7,Mid,2of2,External,Timo_glm,d,glm
+4070_TRI677_E_R7_2of2_Timo_1x1_l_glm,4070,Nikon,1x,1,TRI677,E,R7,Mid,2of2,External,Timo_glm,l,glm
+4071_TRI677_E_R8_1of2_Timo_1x1_d_glm,4071,Nikon,1x,1,TRI677,E,R8,Mid,1of2,External,Timo_glm,d,glm
+4072_TRI677_E_R8_1of2_Timo_1x1_l_glm,4072,Nikon,1x,1,TRI677,E,R8,Mid,1of2,External,Timo_glm,l,glm
+4073_TRI677_E_R13_1of2_Timo_1x1_d_glm,4073,Nikon,1x,1,TRI677,E,R13,Top,1of2,External,Timo_glm,d,glm
+4074_TRI677_E_R13_1of2_Timo_1x1_l_glm,4074,Nikon,1x,1,TRI677,E,R13,Top,1of2,External,Timo_glm,l,glm
+4075_TRI677_E_R13_2of2_Timo_1x1_d_glm,4075,Nikon,1x,1,TRI677,E,R13,Top,2of2,External,Timo_glm,d,glm
+4076_TRI677_E_R13_2of2_Timo_1x1_l_glm,4076,Nikon,1x,1,TRI677,E,R13,Top,2of2,External,Timo_glm,l,glm
+4077_TRI677_E_R12_1of2_Timo_1x1_d_glm,4077,Nikon,1x,1,TRI677,E,R12,Top,1of2,External,Timo_glm,d,glm
+4078_TRI677_E_R12_1of2_Timo_1x1_l_glm,4078,Nikon,1x,1,TRI677,E,R12,Top,1of2,External,Timo_glm,l,glm
+4079_TRI677_F_R1_1of2_Timo_1x1_d_glm,4079,Nikon,1x,1,TRI677,F,R1,Base,1of2,External,Timo_glm,d,glm
+4080_TRI677_F_R1_1of2_Timo_1x1_l_glm,4080,Nikon,1x,1,TRI677,F,R1,Base,1of2,External,Timo_glm,l,glm
+4081_TRI677_F_R1_2of2_Timo_1x1_d_glm,4081,Nikon,1x,1,TRI677,F,R1,Base,2of2,External,Timo_glm,d,glm
+4082_TRI677_F_R1_2of2_Timo_1x1_l_glm,4082,Nikon,1x,1,TRI677,F,R1,Base,2of2,External,Timo_glm,l,glm
+4083_TRI677_F_R2_2of2_Timo_1x1_d_glm,4083,Nikon,1x,1,TRI677,F,R2,Base,2of2,External,Timo_glm,d,glm
+4084_TRI677_F_R2_2of2_Timo_1x1_l_glm,4084,Nikon,1x,1,TRI677,F,R2,Base,2of2,External,Timo_glm,l,glm
+4085_TRI677_F_R8_1of2_Timo_1x1_d_glm,4085,Nikon,1x,1,TRI677,F,R8,Mid,1of2,External,Timo_glm,d,glm
+4086_TRI677_F_R8_1of2_Timo_1x1_l_glm,4086,Nikon,1x,1,TRI677,F,R8,Mid,1of2,External,Timo_glm,l,glm
+4087_TRI677_F_R8_2of2_Timo_1x1_d_glm,4087,Nikon,1x,1,TRI677,F,R8,Mid,2of2,External,Timo_glm,d,glm
+4088_TRI677_F_R8_2of2_Timo_1x1_l_glm,4088,Nikon,1x,1,TRI677,F,R8,Mid,2of2,External,Timo_glm,l,glm
+4089_TRI677_F_R9_1of2_Timo_1x1_d_glm,4089,Nikon,1x,1,TRI677,F,R9,Mid,1of2,External,Timo_glm,d,glm
+4090_TRI677_F_R9_1of2_Timo_1x1_l_glm,4090,Nikon,1x,1,TRI677,F,R9,Mid,1of2,External,Timo_glm,l,glm
+4091_TRI677_F_R15_1of1_Timo_1x1_d_glm,4091,Nikon,1x,1,TRI677,F,R15,Top,1of1,Solo,Timo_glm,d,glm
+4092_TRI677_F_R15_1of1_Timo_1x1_l_glm,4092,Nikon,1x,1,TRI677,F,R15,Top,1of1,Solo,Timo_glm,l,glm
+4093_TRI677_F_R14_1of2_Timo_1x1_d_glm,4093,Nikon,1x,1,TRI677,F,R14,Top,1of2,External,Timo_glm,d,glm
+4094_TRI677_F_R14_1of2_Timo_1x1_l_glm,4094,Nikon,1x,1,TRI677,F,R14,Top,1of2,External,Timo_glm,l,glm
+4095_TRI677_F_R14_2of2_Timo_1x1_d_glm,4095,Nikon,1x,1,TRI677,F,R14,Top,2of2,External,Timo_glm,d,glm
+4096_TRI677_F_R14_2of2_Timo_1x1_l_glm,4096,Nikon,1x,1,TRI677,F,R14,Top,2of2,External,Timo_glm,l,glm
+7081_TRI11509_VB8_Mid_1of2_Tara_1x1_d_c,7081,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,d,c
+7082_TRI11509_VB8_Mid_1of2_Tara_1x1_l_c,7082,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,l,c
+7084_TRI11509_VB8_Mid_2of2_Tara_1x1_d_c,7084,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,d,c
+7085_TRI11509_VB8_Mid_2of2_Tara_1x1_l_c,7085,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,l,c
+7087_TRI11509_VB8_Mid_1of2_Tara_1x1_d_c,7087,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,d,c
+7088_TRI11509_VB8_Mid_1of2_Tara_1x1_l_c,7088,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,l,c
+7090_TRI11509_VB8_Mid_2of2_Tara_1x1_d_c,7090,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,d,c
+7091_TRI11509_VB8_Mid_2of2_Tara_1x1_l_c,7091,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,l,c
+7093_TRI11509_VB8_Mid_1of2_Tara_1x1_d_c,7093,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,d,c
+7094_TRI11509_VB8_Mid_1of2_Tara_1x1_l_c,7094,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara,l,c
+7096_TRI11509_VB8_Mid_2of2_Tara_1x1_d_c,7096,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,d,c
+7097_TRI11509_VB8_Mid_2of2_Tara_1x1_l_c,7097,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara,l,c
+7099_TRI11509_VB7_Mid_1of2_Tara_1x1_d_c,7099,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara,d,c
+7100_TRI11509_VB7_Mid_1of2_Tara_1x1_l_c,7100,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara,l,c
+7102_TRI11509_VB7_Mid_2of2_Tara_1x1_d_c,7102,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara,d,c
+7103_TRI11509_VB7_Mid_2of2_Tara_1x1_l_c,7103,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara,l,c
+7105_TRI11509_VB7_Mid_1of2_Tara_1x1_d_c,7105,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara,d,c
+7106_TRI11509_VB7_Mid_1of2_Tara_1x1_l_c,7106,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara,l,c
+7117_TRI11509_-_Base_1of2_Tara_1x1_d_c,7117,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,d,c
+7118_TRI11509_-_Base_1of2_Tara_1x1_l_c,7118,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,l,c
+7120_TRI11509_-_Base_2of2_Tara_1x1_d_c,7120,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,d,c
+7121_TRI11509_-_Base_2of2_Tara_1x1_l_c,7121,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,l,c
+7123_TRI11509_-_Base_1of2_Tara_1x1_d_c,7123,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,d,c
+7124_TRI11509_-_Base_1of2_Tara_1x1_l_c,7124,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,l,c
+7126_TRI11509_-_Base_2of2_Tara_1x1_d_c,7126,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,d,c
+7127_TRI11509_-_Base_2of2_Tara_1x1_l_c,7127,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,l,c
+7129_TRI11509_-_Base_1of2_Tara_1x1_d_c,7129,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,d,c
+7130_TRI11509_-_Base_1of2_Tara_1x1_l_c,7130,Nikon,1x,1,TRI11509,,,Base,1of2,External,Tara,l,c
+7132_TRI11509_-_Base_2of2_Tara_1x1_d_c,7132,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,d,c
+7133_TRI11509_-_Base_2of2_Tara_1x1_l_c,7133,Nikon,1x,1,TRI11509,,,Base,2of2,External,Tara,l,c
+7135_TRI11509_VB13_Base_1of2_Tara_1x1_d_c,7135,Nikon,1x,1,TRI11509,VB13,,Base,1of2,External,Tara,d,c
+7136_TRI11509_VB13_Base_1of2_Tara_1x1_l_c,7136,Nikon,1x,1,TRI11509,VB13,,Base,1of2,External,Tara,l,c
+7138_TRI11509_VB13_Base_2of2_Tara_1x1_d_c,7138,Nikon,1x,1,TRI11509,VB13,,Base,2of2,External,Tara,d,c
+7139_TRI11509_VB13_Base_2of2_Tara_1x1_l_c,7139,Nikon,1x,1,TRI11509,VB13,,Base,2of2,External,Tara,l,c
+7141_TRI11509_VB12_Base_1of2_Tara_1x1_d_c,7141,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara,d,c
+7142_TRI11509_VB12_Base_1of2_Tara_1x1_l_c,7142,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara,l,c
+7144_TRI11509_VB3_Top_1of2_Tara_1x1_d_c,7144,Nikon,1x,1,TRI11509,VB3,,Top,1of2,External,Tara,d,c
+7145_TRI11509_VB3_Top_1of2_Tara_1x1_l_c,7145,Nikon,1x,1,TRI11509,VB3,,Top,1of2,External,Tara,l,c
+7147_TRI11509_VB3_Top_2of2_Tara_1x1_d_c,7147,Nikon,1x,1,TRI11509,VB3,,Top,2of2,External,Tara,d,c
+7148_TRI11509_VB3_Top_2of2_Tara_1x1_l_c,7148,Nikon,1x,1,TRI11509,VB3,,Top,2of2,External,Tara,l,c
+7150_TRI11509_VB4_Top_1of1_Tara_1x1_d_c,7150,Nikon,1x,1,TRI11509,VB4,,Top,1of1,Solo,Tara,d,c
+7151_TRI11509_VB4_Top_1of1_Tara_1x1_l_c,7151,Nikon,1x,1,TRI11509,VB4,,Top,1of1,Solo,Tara,l,c
+7153_TRI11509_VB4_Top_1of2_Tara_1x1_d_c,7153,Nikon,1x,1,TRI11509,VB4,,Top,1of2,External,Tara,d,c
+7154_TRI11509_VB4_Top_1of2_Tara_1x1_l_c,7154,Nikon,1x,1,TRI11509,VB4,,Top,1of2,External,Tara,l,c
+7156_TRI11509_VB4_Top_2of2_Tara_1x1_d_c,7156,Nikon,1x,1,TRI11509,VB4,,Top,2of2,External,Tara,d,c
+7157_TRI11509_VB4_Top_2of2_Tara_1x1_l_c,7157,Nikon,1x,1,TRI11509,VB4,,Top,2of2,External,Tara,l,c
+7159_TRI11509_VB4_Top_1of2_Tara_1x1_d_c,7159,Nikon,1x,1,TRI11509,VB4,,Top,1of2,External,Tara,d,c
+7160_TRI11509_VB4_Top_1of2_Tara_1x1_l_c,7160,Nikon,1x,1,TRI11509,VB4,,Top,1of2,External,Tara,l,c
+7243_TRI11509_-_Top_1of1_Tara_1x1_d_c,7243,Nikon,1x,1,TRI11509,,,Top,1of1,Solo,Tara,d,c
+7244_TRI11509_-_Top_1of1_Tara_1x1_l_c,7244,Nikon,1x,1,TRI11509,,,Top,1of1,Solo,Tara,l,c
+7246_TRI11509_-_Top_1of1_Tara_1x1_d_c,7246,Nikon,1x,1,TRI11509,,,Top,1of1,Solo,Tara,d,c
+7247_TRI11509_-_Top_1of1_Tara_1x1_l_c,7247,Nikon,1x,1,TRI11509,,,Top,1of1,Solo,Tara,l,c
+7249_TRI11509_-_Top_1of2_Tara_1x1_d_c,7249,Nikon,1x,1,TRI11509,,,Top,1of2,External,Tara,d,c
+7250_TRI11509_-_Top_1of2_Tara_1x1_l_c,7250,Nikon,1x,1,TRI11509,,,Top,1of2,External,Tara,l,c
+7252_T1150001_-_Base_1of1_Tara_1x1_d_c,7252,Nikon,1x,1,T1150001,,,Base,1of1,Solo,Tara,d,c
+7253_T1150001_-_Base_1of1_Tara_1x1_l_c,7253,Nikon,1x,1,T1150001,,,Base,1of1,Solo,Tara,l,c
+7255_T1150001_-_Base_1of1_Tara_1x1_d_c,7255,Nikon,1x,1,T1150001,,,Base,1of1,Solo,Tara,d,c
+7256_T1150001_-_Base_1of1_Tara_1x1_l_c,7256,Nikon,1x,1,T1150001,,,Base,1of1,Solo,Tara,l,c
+7258_T1150001_VB13_Base_1of1_Tara_1x1_d_c,7258,Nikon,1x,1,T1150001,VB13,,Base,1of1,Solo,Tara,d,c
+7259_T1150001_VB13_Base_1of1_Tara_1x1_l_c,7259,Nikon,1x,1,T1150001,VB13,,Base,1of1,Solo,Tara,l,c
+7261_T1150001_VB13_Base_2of2_Tara_1x1_d_c,7261,Nikon,1x,1,T1150001,VB13,,Base,2of2,External,Tara,d,c
+7262_T1150001_VB13_Base_2of2_Tara_1x1_l_c,7262,Nikon,1x,1,T1150001,VB13,,Base,2of2,External,Tara,l,c
+7264_T1150001_VB12_Base_1of2_Tara_1x1_d_c,7264,Nikon,1x,1,T1150001,VB12,,Base,1of2,External,Tara,d,c
+7265_T1150001_VB12_Base_1of2_Tara_1x1_l_c,7265,Nikon,1x,1,T1150001,VB12,,Base,1of2,External,Tara,l,c
+7267_T1150001_VB12_Base_2of2_Tara_1x1_d_c,7267,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,d,c
+7268_T1150001_VB12_Base_2of2_Tara_1x1_l_c,7268,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,l,c
+7270_T1150001_VB12_Base_1of2_Tara_1x1_d_c,7270,Nikon,1x,1,T1150001,VB12,,Base,1of2,External,Tara,d,c
+7271_T1150001_VB12_Base_1of2_Tara_1x1_l_c,7271,Nikon,1x,1,T1150001,VB12,,Base,1of2,External,Tara,l,c
+7273_T1150001_VB12_Base_2of2_Tara_1x1_d_c,7273,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,d,c
+7274_T1150001_VB12_Base_2of2_Tara_1x1_l_c,7274,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,l,c
+7276_T1150001_VB12_Base_2of2_Tara_1x1_d_c,7276,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,d,c
+7277_T1150001_VB12_Base_2of2_Tara_1x1_l_c,7277,Nikon,1x,1,T1150001,VB12,,Base,2of2,External,Tara,l,c
+7279_T1150001_VB8_Mid_1of2_Tara_1x1_d_c,7279,Nikon,1x,1,T1150001,VB8,,Mid,1of2,External,Tara,d,c
+7280_T1150001_VB8_Mid_1of2_Tara_1x1_l_c,7280,Nikon,1x,1,T1150001,VB8,,Mid,1of2,External,Tara,l,c
+7282_T1150001_VB8_Mid_2of2_Tara_1x1_d_c,7282,Nikon,1x,1,T1150001,VB8,,Mid,2of2,External,Tara,d,c
+7283_T1150001_VB8_Mid_2of2_Tara_1x1_l_c,7283,Nikon,1x,1,T1150001,VB8,,Mid,2of2,External,Tara,l,c
+7285_T1150001_VB7_Mid_1of2_Tara_1x1_d_c,7285,Nikon,1x,1,T1150001,VB7,,Mid,1of2,External,Tara,d,c
+7286_T1150001_VB7_Mid_1of2_Tara_1x1_l_c,7286,Nikon,1x,1,T1150001,VB7,,Mid,1of2,External,Tara,l,c
+7288_T1150001_VB7_Mid_2of2_Tara_1x1_d_c,7288,Nikon,1x,1,T1150001,VB7,,Mid,2of2,External,Tara,d,c
+7289_T1150001_VB7_Mid_2of2_Tara_1x1_l_c,7289,Nikon,1x,1,T1150001,VB7,,Mid,2of2,External,Tara,l,c
+7291_T1150001_VB7_Mid_1of2_Tara_1x1_d_c,7291,Nikon,1x,1,T1150001,VB7,,Mid,1of2,External,Tara,d,c
+7292_T1150001_VB7_Mid_1of2_Tara_1x1_l_c,7292,Nikon,1x,1,T1150001,VB7,,Mid,1of2,External,Tara,l,c
+7294_T1150001_VB7_Mid_2of2_Tara_1x1_d_c,7294,Nikon,1x,1,T1150001,VB7,,Mid,2of2,External,Tara,d,c
+7295_T1150001_VB7_Mid_2of2_Tara_1x1_l_c,7295,Nikon,1x,1,T1150001,VB7,,Mid,2of2,External,Tara,l,c
+7297_T1150001_VB9_Mid_1of2_Tara_1x1_d_c,7297,Nikon,1x,1,T1150001,VB9,,Mid,1of2,External,Tara,d,c
+7298_T1150001_VB9_Mid_1of2_Tara_1x1_l_c,7298,Nikon,1x,1,T1150001,VB9,,Mid,1of2,External,Tara,l,c
+7300_T1150001_VB9_Mid_2of2_Tara_1x1_d_c,7300,Nikon,1x,1,T1150001,VB9,,Mid,2of2,External,Tara,d,c
+7301_T1150001_VB9_Mid_2of2_Tara_1x1_l_c,7301,Nikon,1x,1,T1150001,VB9,,Mid,2of2,External,Tara,l,c
+7303_T1150001_VB9_Mid_2of2_Tara_1x1_d_c,7303,Nikon,1x,1,T1150001,VB9,,Mid,2of2,External,Tara,d,c
+7304_T1150001_VB9_Mid_2of2_Tara_1x1_l_c,7304,Nikon,1x,1,T1150001,VB9,,Mid,2of2,External,Tara,l,c
+7306_T1150001_-_Top_1of1_Tara_1x1_d_c,7306,Nikon,1x,1,T1150001,,,Top,1of1,Solo,Tara,d,c
+7307_T1150001_-_Top_1of1_Tara_1x1_l_c,7307,Nikon,1x,1,T1150001,,,Top,1of1,Solo,Tara,l,c
+7309_T1150001_VB3_Top_1of1_Tara_1x1_d_c,7309,Nikon,1x,1,T1150001,VB3,,Top,1of1,Solo,Tara,d,c
+7310_T1150001_VB3_Top_1of1_Tara_1x1_l_c,7310,Nikon,1x,1,T1150001,VB3,,Top,1of1,Solo,Tara,l,c
+7312_T1150001_VB3_Top_1of2_Tara_1x1_d_c,7312,Nikon,1x,1,T1150001,VB3,,Top,1of2,External,Tara,d,c
+7313_T1150001_VB3_Top_1of2_Tara_1x1_l_c,7313,Nikon,1x,1,T1150001,VB3,,Top,1of2,External,Tara,l,c
+7315_T1150001_VB3_Top_2of2_Tara_1x1_d_c,7315,Nikon,1x,1,T1150001,VB3,,Top,2of2,External,Tara,d,c
+7316_T1150001_VB3_Top_2of2_Tara_1x1_l_c,7316,Nikon,1x,1,T1150001,VB3,,Top,2of2,External,Tara,l,c
+7318_T1150001_VB5_Top_1of2_Tara_1x1_d_c,7318,Nikon,1x,1,T1150001,VB5,,Top,1of2,External,Tara,d,c
+7319_T1150001_VB5_Top_1of2_Tara_1x1_l_c,7319,Nikon,1x,1,T1150001,VB5,,Top,1of2,External,Tara,l,c
+7321_T1150001_VB5_Top_2of2_Tara_1x1_d_c,7321,Nikon,1x,1,T1150001,VB5,,Top,2of2,External,Tara,d,c
+7322_T1150001_VB5_Top_2of2_Tara_1x1_l_c,7322,Nikon,1x,1,T1150001,VB5,,Top,2of2,External,Tara,l,c
+7324_T1150001_VB5_Top_1of2_Tara_1x1_d_c,7324,Nikon,1x,1,T1150001,VB5,,Top,1of2,External,Tara,d,c
+7325_T1150001_VB5_Top_1of2_Tara_1x1_l_c,7325,Nikon,1x,1,T1150001,VB5,,Top,1of2,External,Tara,l,c
+7327_T1150001_VB5_Top_2of2_Tara_1x1_d_c,7327,Nikon,1x,1,T1150001,VB5,,Top,2of2,External,Tara,d,c
+7328_T1150001_VB5_Top_2of2_Tara_1x1_l_c,7328,Nikon,1x,1,T1150001,VB5,,Top,2of2,External,Tara,l,c
+7330_T1150001_VB5_Top_1of1_Tara_1x1_d_c,7330,Nikon,1x,1,T1150001,VB5,,Top,1of1,Solo,Tara,d,c
+7331_T1150001_VB5_Top_1of1_Tara_1x1_l_c,7331,Nikon,1x,1,T1150001,VB5,,Top,1of1,Solo,Tara,l,c
+7414_T1150003_VB12_Base_1of2_Tara_1x1_d_c,7414,Nikon,1x,1,T1150003,VB12,,Base,1of2,External,Tara,d,c
+7415_T1150003_VB12_Base_1of2_Tara_1x1_l_c,7415,Nikon,1x,1,T1150003,VB12,,Base,1of2,External,Tara,l,c
+7417_T1150003_VB12_Base_2of2_Tara_1x1_d_c,7417,Nikon,1x,1,T1150003,VB12,,Base,2of2,External,Tara,d,c
+7418_T1150003_VB12_Base_2of2_Tara_1x1_l_c,7418,Nikon,1x,1,T1150003,VB12,,Base,2of2,External,Tara,l,c
+7420_T1150003_VB12_Base_1of2_Tara_1x1_d_c,7420,Nikon,1x,1,T1150003,VB12,,Base,1of2,External,Tara,d,c
+7421_T1150003_VB12_Base_1of2_Tara_1x1_l_c,7421,Nikon,1x,1,T1150003,VB12,,Base,1of2,External,Tara,l,c
+7423_T1150003_VB12_Base_2of2_Tara_1x1_d_c,7423,Nikon,1x,1,T1150003,VB12,,Base,2of2,External,Tara,d,c
+7424_T1150003_VB12_Base_2of2_Tara_1x1_l_c,7424,Nikon,1x,1,T1150003,VB12,,Base,2of2,External,Tara,l,c
+7426_T1150003_VB11_Base_1of2_Tara_1x1_d_c,7426,Nikon,1x,1,T1150003,VB11,,Base,1of2,External,Tara,d,c
+7427_T1150003_VB11_Base_1of2_Tara_1x1_l_c,7427,Nikon,1x,1,T1150003,VB11,,Base,1of2,External,Tara,l,c
+7429_T1150003_VB11_Base_2of2_Tara_1x1_d_c,7429,Nikon,1x,1,T1150003,VB11,,Base,2of2,External,Tara,d,c
+7430_T1150003_VB11_Base_2of2_Tara_1x1_l_c,7430,Nikon,1x,1,T1150003,VB11,,Base,2of2,External,Tara,l,c
+7432_T1150003_VB10_Base_1of2_Tara_1x1_d_c,7432,Nikon,1x,1,T1150003,VB10,,Base,1of2,External,Tara,d,c
+7433_T1150003_VB10_Base_1of2_Tara_1x1_l_c,7433,Nikon,1x,1,T1150003,VB10,,Base,1of2,External,Tara,l,c
+7435_T1150003_VB10_Base_2of2_Tara_1x1_d_c,7435,Nikon,1x,1,T1150003,VB10,,Base,2of2,External,Tara,d,c
+7436_T1150003_VB10_Base_2of2_Tara_1x1_l_c,7436,Nikon,1x,1,T1150003,VB10,,Base,2of2,External,Tara,l,c
+7438_T1150003_VB10_Base_1of2_Tara_1x1_d_c,7438,Nikon,1x,1,T1150003,VB10,,Base,1of2,External,Tara,d,c
+7439_T1150003_VB10_Base_1of2_Tara_1x1_l_c,7439,Nikon,1x,1,T1150003,VB10,,Base,1of2,External,Tara,l,c
+7441_T1150003_VB7_Mid_1of2_Tara_1x1_d_c,7441,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,d,c
+7442_T1150003_VB7_Mid_1of2_Tara_1x1_l_c,7442,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,l,c
+7444_T1150003_VB7_Mid_2of2_Tara_1x1_d_c,7444,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,d,c
+7445_T1150003_VB7_Mid_2of2_Tara_1x1_l_c,7445,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,l,c
+7447_T1150003_VB7_Mid_1of2_Tara_1x1_d_c,7447,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,d,c
+7448_T1150003_VB7_Mid_1of2_Tara_1x1_l_c,7448,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,l,c
+7450_T1150003_VB7_Mid_2of2_Tara_1x1_d_c,7450,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,d,c
+7451_T1150003_VB7_Mid_2of2_Tara_1x1_l_c,7451,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,l,c
+7453_T1150003_VB7_Mid_1of2_Tara_1x1_d_c,7453,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,d,c
+7454_T1150003_VB7_Mid_1of2_Tara_1x1_l_c,7454,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,l,c
+7456_T1150003_VB7_Mid_2of2_Tara_1x1_d_c,7456,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,d,c
+7457_T1150003_VB7_Mid_2of2_Tara_1x1_l_c,7457,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,l,c
+7459_T1150003_VB7_Mid_1of2_Tara_1x1_d_c,7459,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,d,c
+7460_T1150003_VB7_Mid_1of2_Tara_1x1_l_c,7460,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,l,c
+7462_T1150003_VB7_Mid_1of2_Tara_1x1_d_c,7462,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,d,c
+7463_T1150003_VB7_Mid_1of2_Tara_1x1_l_c,7463,Nikon,1x,1,T1150003,VB7,,Mid,1of2,External,Tara,l,c
+7465_T1150003_VB7_Mid_2of2_Tara_1x1_d_c,7465,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,d,c
+7466_T1150003_VB7_Mid_2of2_Tara_1x1_l_c,7466,Nikon,1x,1,T1150003,VB7,,Mid,2of2,External,Tara,l,c
+7468_T1150003_-_Top_1of2_Tara_1x1_d_c,7468,Nikon,1x,1,T1150003,,,Top,1of2,External,Tara,d,c
+7469_T1150003_-_Top_1of2_Tara_1x1_l_c,7469,Nikon,1x,1,T1150003,,,Top,1of2,External,Tara,l,c
+7471_T1150003_-_Top_2of2_Tara_1x1_d_c,7471,Nikon,1x,1,T1150003,,,Top,2of2,External,Tara,d,c
+7472_T1150003_-_Top_2of2_Tara_1x1_l_c,7472,Nikon,1x,1,T1150003,,,Top,2of2,External,Tara,l,c
+7474_T1150003_-_Top_1of1_Tara_1x1_d_c,7474,Nikon,1x,1,T1150003,,,Top,1of1,Solo,Tara,d,c
+7475_T1150003_-_Top_1of1_Tara_1x1_l_c,7475,Nikon,1x,1,T1150003,,,Top,1of1,Solo,Tara,l,c
+7477_T1150003_-_Top_1of1_Tara_1x1_d_c,7477,Nikon,1x,1,T1150003,,,Top,1of1,Solo,Tara,d,c
+7478_T1150003_-_Top_1of1_Tara_1x1_l_c,7478,Nikon,1x,1,T1150003,,,Top,1of1,Solo,Tara,l,c
+7480_T1150003_VB2_Top_1of1_Tara_1x1_d_c,7480,Nikon,1x,1,T1150003,VB2,,Top,1of1,Solo,Tara,d,c
+7481_T1150003_VB2_Top_1of1_Tara_1x1_l_c,7481,Nikon,1x,1,T1150003,VB2,,Top,1of1,Solo,Tara,l,c
+7483_T1150003_VB2_Top_1of1_Tara_1x1_d_c,7483,Nikon,1x,1,T1150003,VB2,,Top,1of1,Solo,Tara,d,c
+7484_T1150003_VB2_Top_1of1_Tara_1x1_l_c,7484,Nikon,1x,1,T1150003,VB2,,Top,1of1,Solo,Tara,l,c
+7486_T1150003_VB3_Top_1of2_Tara_1x1_d_c,7486,Nikon,1x,1,T1150003,VB3,,Top,1of2,External,Tara,d,c
+7487_T1150003_VB3_Top_1of2_Tara_1x1_l_c,7487,Nikon,1x,1,T1150003,VB3,,Top,1of2,External,Tara,l,c
+7489_T1150003_VB3_Top_2of2_Tara_1x1_d_c,7489,Nikon,1x,1,T1150003,VB3,,Top,2of2,External,Tara,d,c
+7490_T1150003_VB3_Top_2of2_Tara_1x1_l_c,7490,Nikon,1x,1,T1150003,VB3,,Top,2of2,External,Tara,l,c
+7492_T1150003_VB3_Top_1of2_Tara_1x1_d_c,7492,Nikon,1x,1,T1150003,VB3,,Top,1of2,External,Tara,d,c
+7493_T1150003_VB3_Top_1of2_Tara_1x1_l_c,7493,Nikon,1x,1,T1150003,VB3,,Top,1of2,External,Tara,l,c
+7495_TRI11509_-_Base_1of2_Tara_1x1_d_glm,7495,Nikon,1x,1,TRI11509,-,,Base,1of2,External,Tara_glm,d,glm
+7496_TRI11509_-_Base_1of2_Tara_1x1_l_glm,7496,Nikon,1x,1,TRI11509,-,,Base,1of2,External,Tara_glm,l,glm
+7497_TRI11509_-_Base_2of2_Tara_1x1_d_glm,7497,Nikon,1x,1,TRI11509,-,,Base,2of2,External,Tara_glm,d,glm
+7498_TRI11509_-_Base_2of2_Tara_1x1_l_glm,7498,Nikon,1x,1,TRI11509,-,,Base,2of2,External,Tara_glm,l,glm
+7499_TRI11509_-_Base_1of2_Tara_1x1_d_glm,7499,Nikon,1x,1,TRI11509,-,,Base,1of2,External,Tara_glm,d,glm
+7500_TRI11509_-_Base_1of2_Tara_1x1_l_glm,7500,Nikon,1x,1,TRI11509,-,,Base,1of2,External,Tara_glm,l,glm
+7501_TRI11509_-_Base_2of2_Tara_1x1_d_glm,7501,Nikon,1x,1,TRI11509,-,,Base,2of2,External,Tara_glm,d,glm
+7502_TRI11509_-_Base_2of2_Tara_1x1_l_glm,7502,Nikon,1x,1,TRI11509,-,,Base,2of2,External,Tara_glm,l,glm
+7503_TRI11509_VB12_Base_1of2_Tara_1x1_d_glm,7503,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara_glm,d,glm
+7504_TRI11509_VB12_Base_1of2_Tara_1x1_l_glm,7504,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara_glm,l,glm
+7505_TRI11509_VB12_Base_2of2_Tara_1x1_d_glm,7505,Nikon,1x,1,TRI11509,VB12,,Base,2of2,External,Tara_glm,d,glm
+7506_TRI11509_VB12_Base_2of2_Tara_1x1_l_glm,7506,Nikon,1x,1,TRI11509,VB12,,Base,2of2,External,Tara_glm,l,glm
+7507_TRI11509_VB12_Base_1of1_Tara_1x1_d_glm,7507,Nikon,1x,1,TRI11509,VB12,,Base,1of1,Solo,Tara_glm,d,glm
+7508_TRI11509_VB12_Base_1of1_Tara_1x1_l_glm,7508,Nikon,1x,1,TRI11509,VB12,,Base,1of1,Solo,Tara_glm,l,glm
+7509_TRI11509_VB12_Base_1of1_Tara_1x1_d_glm,7509,Nikon,1x,1,TRI11509,VB12,,Base,1of1,Solo,Tara_glm,d,glm
+7510_TRI11509_VB12_Base_1of1_Tara_1x1_l_glm,7510,Nikon,1x,1,TRI11509,VB12,,Base,1of1,Solo,Tara_glm,l,glm
+7511_TRI11509_VB12_Base_1of2_Tara_1x1_d_glm,7511,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara_glm,d,glm
+7512_TRI11509_VB12_Base_1of2_Tara_1x1_l_glm,7512,Nikon,1x,1,TRI11509,VB12,,Base,1of2,External,Tara_glm,l,glm
+7513_TRI11509_VB7_Mid_1of2_Tara_1x1_d_glm,7513,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara_glm,d,glm
+7514_TRI11509_VB7_Mid_1of2_Tara_1x1_l_glm,7514,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara_glm,l,glm
+7515_TRI11509_VB7_Mid_2of2_Tara_1x1_d_glm,7515,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara_glm,d,glm
+7516_TRI11509_VB7_Mid_2of2_Tara_1x1_l_glm,7516,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara_glm,l,glm
+7517_TRI11509_VB7_Mid_1of2_Tara_1x1_d_glm,7517,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara_glm,d,glm
+7518_TRI11509_VB7_Mid_1of2_Tara_1x1_l_glm,7518,Nikon,1x,1,TRI11509,VB7,,Mid,1of2,External,Tara_glm,l,glm
+7519_TRI11509_VB7_Mid_2of2_Tara_1x1_d_glm,7519,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara_glm,d,glm
+7520_TRI11509_VB7_Mid_2of2_Tara_1x1_l_glm,7520,Nikon,1x,1,TRI11509,VB7,,Mid,2of2,External,Tara_glm,l,glm
+7521_TRI11509_VB8_Mid_1of2_Tara_1x1_d_glm,7521,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara_glm,d,glm
+7522_TRI11509_VB8_Mid_1of2_Tara_1x1_l_glm,7522,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara_glm,l,glm
+7523_TRI11509_VB8_Mid_2of2_Tara_1x1_d_glm,7523,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara_glm,d,glm
+7524_TRI11509_VB8_Mid_2of2_Tara_1x1_l_glm,7524,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara_glm,l,glm
+7525_TRI11509_VB8_Mid_1of1_Tara_1x1_d_glm,7525,Nikon,1x,1,TRI11509,VB8,,Mid,1of1,Solo,Tara_glm,d,glm
+7526_TRI11509_VB8_Mid_1of1_Tara_1x1_l_glm,7526,Nikon,1x,1,TRI11509,VB8,,Mid,1of1,Solo,Tara_glm,l,glm
+7527_TRI11509_VB8_Mid_2of2_Tara_1x1_d_glm,7527,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara_glm,d,glm
+7528_TRI11509_VB8_Mid_2of2_Tara_1x1_l_glm,7528,Nikon,1x,1,TRI11509,VB8,,Mid,2of2,External,Tara_glm,l,glm
+7529_TRI11509_VB8_Mid_1of2_Tara_1x1_d_glm,7529,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara_glm,d,glm
+7530_TRI11509_VB8_Mid_1of2_Tara_1x1_l_glm,7530,Nikon,1x,1,TRI11509,VB8,,Mid,1of2,External,Tara_glm,l,glm
+7531_TRI11509_-_Top_1of1_Tara_1x1_d_glm,7531,Nikon,1x,1,TRI11509,-,,Top,1of1,Solo,Tara_glm,d,glm
+7532_TRI11509_-_Top_1of1_Tara_1x1_l_glm,7532,Nikon,1x,1,TRI11509,-,,Top,1of1,Solo,Tara_glm,l,glm
+7533_TRI11509_-_Top_1of2_Tara_1x1_d_glm,7533,Nikon,1x,1,TRI11509,-,,Top,1of2,External,Tara_glm,d,glm
+7534_TRI11509_-_Top_1of2_Tara_1x1_l_glm,7534,Nikon,1x,1,TRI11509,-,,Top,1of2,External,Tara_glm,l,glm
+7535_TRI11509_-_Top_2of2_Tara_1x1_d_glm,7535,Nikon,1x,1,TRI11509,-,,Top,2of2,External,Tara_glm,d,glm
+7536_TRI11509_-_Top_2of2_Tara_1x1_l_glm,7536,Nikon,1x,1,TRI11509,-,,Top,2of2,External,Tara_glm,l,glm
+7537_TRI11509_-_Top_1of2_Tara_1x1_d_glm,7537,Nikon,1x,1,TRI11509,-,,Top,1of2,External,Tara_glm,d,glm
+7538_TRI11509_-_Top_1of2_Tara_1x1_l_glm,7538,Nikon,1x,1,TRI11509,-,,Top,1of2,External,Tara_glm,l,glm
+7539_TRI11509_-_Top_2of2_Tara_1x1_d_glm,7539,Nikon,1x,1,TRI11509,-,,Top,2of2,External,Tara_glm,d,glm
+7540_TRI11509_-_Top_2of2_Tara_1x1_l_glm,7540,Nikon,1x,1,TRI11509,-,,Top,2of2,External,Tara_glm,l,glm
+7541_TRI11509_VB5_Top_1of2_Tara_1x1_d_glm,7541,Nikon,1x,1,TRI11509,VB5,,Top,1of2,External,Tara_glm,d,glm
+7542_TRI11509_VB5_Top_1of2_Tara_1x1_l_glm,7542,Nikon,1x,1,TRI11509,VB5,,Top,1of2,External,Tara_glm,l,glm
+7543_TRI11509_VB5_Top_2of2_Tara_1x1_d_glm,7543,Nikon,1x,1,TRI11509,VB5,,Top,2of2,External,Tara_glm,d,glm
+7544_TRI11509_VB5_Top_2of2_Tara_1x1_l_glm,7544,Nikon,1x,1,TRI11509,VB5,,Top,2of2,External,Tara_glm,l,glm
+7545_TRI11509_VB5_Top_1of2_Tara_1x1_d_glm,7545,Nikon,1x,1,TRI11509,VB5,,Top,1of2,External,Tara_glm,d,glm
+7546_TRI11509_VB5_Top_1of2_Tara_1x1_l_glm,7546,Nikon,1x,1,TRI11509,VB5,,Top,1of2,External,Tara_glm,l,glm
+7547_TRI11509_VB5_Top_2of2_Tara_1x1_d_glm,7547,Nikon,1x,1,TRI11509,VB5,,Top,2of2,External,Tara_glm,d,glm
+7548_TRI11509_VB5_Top_2of2_Tara_1x1_l_glm,7548,Nikon,1x,1,TRI11509,VB5,,Top,2of2,External,Tara_glm,l,glm
+9000_New_2845_S1_Early_1x1.25_d_c,9000,Z6 APO,1x,1.25,1297,2845,,Early,S1,,Arch_New,d,c
+9001_New_2845_S1_Early_1x1.25_l_c,9001,Z6 APO,1x,1.25,1297,2845,,Early,S1,,Arch_New,l,c
+9003_New_2845_S2_Early_1x1.25_d_c,9003,Z6 APO,1x,1.25,1297,2845,,Early,S2,,Arch_New,d,c
+9004_New_2845_S2_Early_1x1.25_l_c,9004,Z6 APO,1x,1.25,1297,2845,,Early,S2,,Arch_New,l,c
+9021_New_30785_S1_Late_1x1.25_d_c,9021,Z6 APO,1x,1.25,10922,30785,,Late,S1,,Arch_New,d,c
+9022_New_30785_S1_Late_1x1.25_l_c,9022,Z6 APO,1x,1.25,10922,30785,,Late,S1,,Arch_New,l,c
+9024_New_30785_S2_Late_1x1.25_d_c,9024,Z6 APO,1x,1.25,10922,30785,,Late,S2,,Arch_New,d,c
+9025_New_30785_S2_Late_1x1.25_l_c,9025,Z6 APO,1x,1.25,10922,30785,,Late,S2,,Arch_New,l,c
+9027_New_30785_S3_Late_1x1.25_d_c,9027,Z6 APO,1x,1.25,10922,30785,,Late,S3,,Arch_New,d,c
+9028_New_30785_S3_Late_1x1.25_l_c,9028,Z6 APO,1x,1.25,10922,30785,,Late,S3,,Arch_New,l,c
+9036_New_20703_S3_Late_1x1.25_d_c,9036,Z6 APO,1x,1.25,10925,20703,,Late,S3,,Arch_New,d,c
+9037_New_20703_S3_Late_1x1.25_l_c,9037,Z6 APO,1x,1.25,10925,20703,,Late,S3,,Arch_New,l,c
+9048_New_22637_S1_Middle_1x1.25_d_c,9048,Z6 APO,1x,1.25,12015,22637,,Mid,S1,,Arch_New,d,c
+9049_New_22637_S1_Middle_1x1.25_l_c,9049,Z6 APO,1x,1.25,12015,22637,,Mid,S1,,Arch_New,l,c
+9057_cf New_5314_S1_Early_1x1.25_d_c,9057,Z6 APO,1x,1.25,3742,5314,,Early,S1,,Arch_New,d,c
+9058_cf New_5314_S1_Early_1x1.25_l_c,9058,Z6 APO,1x,1.25,3742,5314,,Early,S1,,Arch_New,l,c
+9072_Emmer_1442_S1_Middle_1x1.25_d_c,9072,Z6 APO,1x,1.25,535,1442,,Middle,S1,,Arch_Emmer,d,c
+9073_Emmer_1442_S1_Middle_1x1.25_l_c,9073,Z6 APO,1x,1.25,535,1442,,Middle,S1,,Arch_Emmer,l,c
+9078_Emmer_1255_S4_Middle_1x1.25_d_c,9078,Z6 APO,1x,1.25,78,1255,,Middle,S4,,Arch_Emmer,d,c
+9079_Emmer_1255_S4_Middle_1x1.25_l_c,9079,Z6 APO,1x,1.25,78,1255,,Middle,S4,,Arch_Emmer,l,c
+9114_Emmer_1255_S5_Middle_1x1.25_d_c,9114,Z6 APO,1x,1.25,78,1255,,Middle,S5,,Arch_New,d,c
+9115_Emmer_1255_S5_Middle_1x1.25_l_c,9115,Z6 APO,1x,1.25,78,1255,,Middle,S5,,Arch_New,l,c
+9117_Emmer_1255_S3_Middle_1x1.25_d_c,9117,Z6 APO,1x,1.25,78,1255,,Middle,S3,,Arch_Emmer,d,c
+9118_Emmer_1255_S3_Middle_1x1.25_l_c,9118,Z6 APO,1x,1.25,78,1255,,Middle,S3,,Arch_Emmer,l,c
+9120_Emmer_1255_S1_Middle_1x1.25_d_c,9120,Z6 APO,1x,1.25,78,1255,,Middle,S1,,Arch_Emmer,d,c
+9121_Emmer_1255_S1_Middle_1x1.25_l_c,9121,Z6 APO,1x,1.25,78,1255,,Middle,S1,,Arch_Emmer,l,c
+9138_Emmer_20703_S1_Late_1x1.25_d_c,9138,Z6 APO,1x,1.25,10830,20703,,Late,S1,,Arch_Emmer,d,c
+9139_Emmer_20703_S1_Late_1x1.25_l_c,9139,Z6 APO,1x,1.25,10830,20703,,Late,S1,,Arch_Emmer,l,c
+9141_Emmer_20703_S3_Late_1x1.25_d_c,9141,Z6 APO,1x,1.25,10830,20703,,Late,S3,,Arch_New,d,c
+9142_Emmer_20703_S3_Late_1x1.25_l_c,9142,Z6 APO,1x,1.25,10830,20703,,Late,S3,,Arch_New,l,c
+9144_Not ID_32837_S3_Late_1x1.25_d_c,9144,Z6 APO,1x,1.25,13917,32837,,Late,S3,,Arch_New,d,c
+9145_Not ID_32837_S3_Late_1x1.25_l_c,9145,Z6 APO,1x,1.25,13917,32837,,Late,S3,,Arch_New,l,c
+9150_Emmer_1099_S1_Early_1x1.25_d_c,9150,Z6 APO,1x,1.25,173,1099,,Early,S1,,Arch_Emmer,d,c
+9151_Emmer_1099_S1_Early_1x1.25_l_c,9151,Z6 APO,1x,1.25,173,1099,,Early,S1,,Arch_Emmer,l,c
+9156_EmmerORNew_3705_S1_Early_1x1_d_c,9156,Nikon,1x,1,1804,3705,,Early,S1,,Arch_New,d,c
+9157_EmmerORNew_3705_S1_Early_1x1_l_c,9157,Nikon,1x,1,1804,3705,,Early,S1,,Arch_New,l,c
+9158_New_22656_S4_Middle_1x1_d_c,9158,Nikon,1x,1,11996,22656,,Mid,S4,,Arch_New,d,c
+9159_New_22656_S4_Middle_1x1_l_c,9159,Nikon,1x,1,11996,22656,,Mid,S4,,Arch_New,l,c
+9160_New_22656_S5_Middle_1x1_d_c,9160,Nikon,1x,1,11996,22656,,Mid,S5,,Arch_New,d,c
+9161_New_22656_S5_Middle_1x1_l_c,9161,Nikon,1x,1,11996,22656,,Mid,S5,,Arch_New,l,c
+9162_New_22656_S6_Middle_1x1_d_c,9162,Nikon,1x,1,11996,22656,,Mid,S6,,Arch_New,d,c
+9163_New_22656_S6_Middle_1x1_l_c,9163,Nikon,1x,1,11996,22656,,Mid,S6,,Arch_New,l,c
+9166_New_22656_S8_Middle_1x1_d_c,9166,Nikon,1x,1,11996,22656,,Mid,S8,,Arch_New,d,c
+9167_New_22656_S8_Middle_1x1_l_c,9167,Nikon,1x,1,11996,22656,,Mid,S8,,Arch_New,l,c
+9168_New_22656_S9_Middle_1x1_d_c,9168,Nikon,1x,1,11996,22656,,Mid,S9,,Arch_New,d,c
+9169_New_22656_S9_Middle_1x1_l_c,9169,Nikon,1x,1,11996,22656,,Mid,S9,,Arch_New,l,c
+9174_New_22656_S12_Middle_1x1_d_c,9174,Nikon,1x,1,11996,22656,,Mid,S12,,Arch_New,d,c
+9175_New_22656_S12_Middle_1x1_l_c,9175,Nikon,1x,1,11996,22656,,Mid,S12,,Arch_New,l,c
+9184_Emmer_20703_S4_Late_1x1_d_c,9184,Nikon,1x,1,10830,20703,,Late,S4,,Arch_Emmer,d,c
+9185_Emmer_20703_S4_Late_1x1_l_c,9185,Nikon,1x,1,10830,20703,,Late,S4,,Arch_Emmer,l,c
+9186_New_20703_S4_Late_1x1_d_c,9186,Nikon,1x,1,10830,20703,,Late,S4,,Arch_New,d,c
+9187_New_20703_S4_Late_1x1_l_c,9187,Nikon,1x,1,10830,20703,,Late,S4,,Arch_New,l,c
+9188_New_20703_S5_Late_1x1_d_c,9188,Nikon,1x,1,10830,20703,,Late,S5,,Arch_New,d,c
+9189_New_20703_S5_Late_1x1_l_c,9189,Nikon,1x,1,10830,20703,,Late,S5,,Arch_New,l,c
+9190_New_20703_S6_Late_1x1_d_c,9190,Nikon,1x,1,10830,20703,,Late,S6,,Arch_New,d,c
+9191_New_20703_S6_Late_1x1_l_c,9191,Nikon,1x,1,10830,20703,,Late,S6,,Arch_New,l,c
+9192_New_20703_S7_Late_1x1_d_c,9192,Nikon,1x,1,10830,20703,,Late,S7,,Arch_New,d,c
+9193_New_20703_S7_Late_1x1_l_c,9193,Nikon,1x,1,10830,20703,,Late,S7,,Arch_New,l,c
+9194_New_20703_S8_Late_1x1_d_c,9194,Nikon,1x,1,10830,20703,,Late,S8,,Arch_New,d,c
+9195_New_20703_S8_Late_1x1_l_c,9195,Nikon,1x,1,10830,20703,,Late,S8,,Arch_New,l,c
+9200_New_20703_S11_Late_1x1_d_c,9200,Nikon,1x,1,10830,20703,,Late,S11,,Arch_New,d,c
+9201_New_20703_S11_Late_1x1_l_c,9201,Nikon,1x,1,10830,20703,,Late,S11,,Arch_New,l,c
+9210_Emmer_18596_S1_Middle_1x1_d_c,9210,Nikon,1x,1,Archive,18596,,Mid,S1,,Arch_Emmer,d,c
+9211_Emmer_18596_S1_Middle_1x1_l_c,9211,Nikon,1x,1,Archive,18596,,Mid,S1,,Arch_Emmer,l,c
+9212_Emmer_18596_S2_Middle_1x1_d_c,9212,Nikon,1x,1,Archive,18596,,Mid,S2,,Arch_Emmer,d,c
+9213_Emmer_18596_S2_Middle_1x1_l_c,9213,Nikon,1x,1,Archive,18596,,Mid,S2,,Arch_Emmer,l,c
+9214_Emmer_18596_S3_Middle_1x1_d_c,9214,Nikon,1x,1,Archive,18596,,Mid,S3,,Arch_Emmer,d,c
+9215_Emmer_18596_S3_Middle_1x1_l_c,9215,Nikon,1x,1,Archive,18596,,Mid,S3,,Arch_Emmer,l,c
+9216_Emmer_18596_S4_Middle_1x1_d_c,9216,Nikon,1x,1,Archive,18596,,Mid,S4,,Arch_Emmer,d,c
+9217_Emmer_18596_S4_Middle_1x1_l_c,9217,Nikon,1x,1,Archive,18596,,Mid,S4,,Arch_Emmer,l,c
+9220_Emmer_18596_S6_Middle_1x1_d_c,9220,Nikon,1x,1,Archive,18596,,Mid,S6,,Arch_Emmer,d,c
+9221_Emmer_18596_S6_Middle_1x1_l_c,9221,Nikon,1x,1,Archive,18596,,Mid,S6,,Arch_Emmer,l,c
+9222_Emmer_18596_S7_Middle_1x1_d_c,9222,Nikon,1x,1,Archive,18596,,Mid,S7,,Arch_Emmer,d,c
+9223_Emmer_18596_S7_Middle_1x1_l_c,9223,Nikon,1x,1,Archive,18596,,Mid,S7,,Arch_Emmer,l,c
+9224_Emmer_18596_S8_Middle_1x1_d_c,9224,Nikon,1x,1,Archive,18596,,Middle,S8,,Arch_Emmer,d,c
+9225_Emmer_18596_S8_Middle_1x1_l_c,9225,Nikon,1x,1,Archive,18596,,Middle,S8,,Arch_Emmer,l,c
+9226_Emmer_18596_S9_Middle_1x1_d_c,9226,Nikon,1x,1,Archive,18596,,Mid,S9,,Arch_Emmer,d,c
+9227_Emmer_18596_S9_Middle_1x1_l_c,9227,Nikon,1x,1,Archive,18596,,Mid,S9,,Arch_Emmer,l,c
+9228_Emmer_18596_S10_Middle_1x1_d_c,9228,Nikon,1x,1,Archive,18596,,Mid,S10,,Arch_Emmer,d,c
+9229_Emmer_18596_S10_Middle_1x1_l_c,9229,Nikon,1x,1,Archive,18596,,Mid,S10,,Arch_Emmer,l,c
+9230_Emmer_18596_S11_Middle_1x1_d_c,9230,Nikon,1x,1,Archive,18596,,Mid,S11,,Arch_Emmer,d,c
+9231_Emmer_18596_S11_Middle_1x1_l_c,9231,Nikon,1x,1,Archive,18596,,Mid,S11,,Arch_Emmer,l,c
+9232_Emmer_18596_S12_Middle_1x1_d_c,9232,Nikon,1x,1,Archive,18596,,Mid,S12,,Arch_Emmer,d,c
+9233_Emmer_18596_S12_Middle_1x1_l_c,9233,Nikon,1x,1,Archive,18596,,Mid,S12,,Arch_Emmer,l,c
+9234_Emmer_18596_S13_Middle_1x1_d_c,9234,Nikon,1x,1,Archive,18596,,Mid,S13,,Arch_Emmer,d,c
+9235_Emmer_18596_S13_Middle_1x1_l_c,9235,Nikon,1x,1,Archive,18596,,Mid,S13,,Arch_Emmer,l,c
+9236_Emmer_18596_S14_Middle_1x1_d_c,9236,Nikon,1x,1,Archive,18596,,Mid,S14,,Arch_Emmer,d,c
+9237_Emmer_18596_S14_Middle_1x1_l_c,9237,Nikon,1x,1,Archive,18596,,Mid,S14,,Arch_Emmer,l,c
+9238_Emmer_18596_S15_Middle_1x1_d_c,9238,Nikon,1x,1,Archive,18596,,Mid,S15,,Arch_Emmer,d,c
+9239_Emmer_18596_S15_Middle_1x1_l_c,9239,Nikon,1x,1,Archive,18596,,Mid,S15,,Arch_Emmer,l,c
+9240_Emmer_18596_S16_Middle_1x1_d_c,9240,Nikon,1x,1,Archive,18596,,Mid,S16,,Arch_Emmer,d,c
+9241_Emmer_18596_S16_Middle_1x1_l_c,9241,Nikon,1x,1,Archive,18596,,Mid,S16,,Arch_Emmer,l,c
+9242_Emmer_18596_S17_Middle_1x1_d_c,9242,Nikon,1x,1,Archive,18596,,Mid,S17,,Arch_Emmer,d,c
+9243_Emmer_18596_S17_Middle_1x1_l_c,9243,Nikon,1x,1,Archive,18596,,Mid,S17,,Arch_Emmer,l,c
+9244_cf. 2gr einkorn__S1_Early_1x1_d_c,9244,Nikon,1x,1,3297,,,Early,S1,,Arch_New,d,c
+9245_cf. 2gr einkorn__S1_Early_1x1_l_c,9245,Nikon,1x,1,3297,,,Early,S1,,Arch_New,l,c
+9254_Emmer_20747_S3_Late_1x1_d_c,9254,Nikon,1x,1,12913,20747,,Late,S3,,Arch_Emmer,d,c
+9255_Emmer_20747_S3_Late_1x1_l_c,9255,Nikon,1x,1,12913,20747,,Late,S3,,Arch_Emmer,l,c
+9256_New Type_20703_S4_Late_1x1_d_c,9256,Nikon,1x,1,10925,20703,,Late,S4,,Arch_New,d,c
+9257_New Type_20703_S4_Late_1x1_l_c,9257,Nikon,1x,1,10925,20703,,Late,S4,,Arch_New,l,c
+9258_New Type_20703_S5_Late_1x1_d_c,9258,Nikon,1x,1,10925,20703,,Late,S5,,Arch_New,d,c
+9259_New Type_20703_S5_Late_1x1_l_c,9259,Nikon,1x,1,10925,20703,,Late,S5,,Arch_New,l,c
+9260_New Type_20703_S6_Late_1x1_d_c,9260,Nikon,1x,1,10925,20703,,Late,S6,,Arch_New,d,c
+9261_New Type_20703_S6_Late_1x1_l_c,9261,Nikon,1x,1,10925,20703,,Late,S6,,Arch_New,l,c
+9262_New Type_20703_S7_Late_1x1_d_c,9262,Nikon,1x,1,10925,20703,,Late,S7,,Arch_New,d,c
+9263_New Type_20703_S7_Late_1x1_l_c,9263,Nikon,1x,1,10925,20703,,Late,S7,,Arch_New,l,c
+9264_New Type_20703_S8_Late_1x1_d_c,9264,Nikon,1x,1,10925,20703,,Late,S8,,Arch_New,d,c
+9265_New Type_20703_S8_Late_1x1_l_c,9265,Nikon,1x,1,10925,20703,,Late,S8,,Arch_New,l,c
+9266_New Type_20703_S9_Late_1x1_d_c,9266,Nikon,1x,1,10925,20703,,Late,S9,,Arch_Emmer,d,c
+9267_New Type_20703_S9_Late_1x1_l_c,9267,Nikon,1x,1,10925,20703,,Late,S9,,Arch_Emmer,l,c
+9268_New Type_20703_S10_Late_1x1_d_c,9268,Nikon,1x,1,10925,20703,,Late,S10,,Arch_New,d,c
+9269_New Type_20703_S10_Late_1x1_l_c,9269,Nikon,1x,1,10925,20703,,Late,S10,,Arch_New,l,c
+9270_New Type_20703_S11_Late_1x1_d_c,9270,Nikon,1x,1,10925,20703,,Late,S11,,Arch_New,d,c
+9271_New Type_20703_S11_Late_1x1_l_c,9271,Nikon,1x,1,10925,20703,,Late,S11,,Arch_New,l,c
+9274_New Type_20703_S13_Late_1x1_d_c,9274,Nikon,1x,1,10925,20703,,Late,S13,,Arch_New,d,c
+9275_New Type_20703_S13_Late_1x1_l_c,9275,Nikon,1x,1,10925,20703,,Late,S13,,Arch_New,l,c
+9288_New Type_20789_S1_Late_1x1_d_c,9288,Nikon,1x,1,12972,20789,,Late,S1,,Arch_New,d,c
+9289_New Type_20789_S1_Late_1x1_l_c,9289,Nikon,1x,1,12972,20789,,Late,S1,,Arch_New,l,c
+9290_New Type_20789_S2_Late_1x1_d_c,9290,Nikon,1x,1,12972,20789,,Late,S2,,Arch_New,d,c
+9291_New Type_20789_S2_Late_1x1_l_c,9291,Nikon,1x,1,12972,20789,,Late,S2,,Arch_New,l,c
+9292_Emmer_32803_S1_Late_1x1_d_c,9292,Nikon,1x,1,13850,32803,,Mid,S1,,Arch_Emmer,d,c
+9293_Emmer_32803_S1_Late_1x1_l_c,9293,Nikon,1x,1,13850,32803,,Mid,S1,,Arch_Emmer,l,c
+9296_Emmer_11911_S1_Middle_1x1_d_c,9296,Nikon,1x,1,6050,11911,,Middle,S1,,Arch_Emmer,d,c
+9297_Emmer_11911_S1_Middle_1x1_l_c,9297,Nikon,1x,1,6050,11911,,Middle,S1,,Arch_Emmer,l,c
+9306_Emmer_2845_S2_Early_1x1_d_c,9306,Nikon,1x,1,1297,2845,,Early,S2,,Arch_Emmer,d,c
+9307_Emmer_2845_S2_Early_1x1_l_c,9307,Nikon,1x,1,1297,2845,,Early,S2,,Arch_Emmer,l,c
+9308_cf New Type_22850_S1_Late_1x1_d_c,9308,Nikon,1x,1,12278,22850,,Late,S1,,Arch_New,d,c
+9309_cf New Type_22850_S1_Late_1x1_l_c,9309,Nikon,1x,1,12278,22850,,Late,S1,,Arch_New,l,c
+9310_cf New Type_22850_S2_Late_1x1_d_c,9310,Nikon,1x,1,12278,22850,,Late,S2,,Arch_New,d,c
+9311_cf New Type_22850_S2_Late_1x1_l_c,9311,Nikon,1x,1,12278,22850,,Late,S2,,Arch_New,l,c
+9316_New Type_16480_S5_Middle_1x1_d_c,9316,Nikon,1x,1,8413,16480,,Middle,S5,,Arch_New,d,c
+9317_New Type_16480_S5_Middle_1x1_l_c,9317,Nikon,1x,1,8413,16480,,Middle,S5,,Arch_New,l,c
+9342_New Type_16480_S18_Middle_1x1_d_c,9342,Nikon,1x,1,8413,16480,,Middle,S18,,Arch_New,d,c
+9343_New Type_16480_S18_Middle_1x1_l_c,9343,Nikon,1x,1,8413,16480,,Middle,S18,,Arch_New,l,c
+9344_New Type_16480_S19_Middle_1x1_d_c,9344,Nikon,1x,1,8413,16480,,Middle,S19,,Arch_New,d,c
+9345_New Type_16480_S19_Middle_1x1_l_c,9345,Nikon,1x,1,8413,16480,,Middle,S19,,Arch_New,l,c
+9346_New Type_16480_S20_Middle_1x1_d_c,9346,Nikon,1x,1,8413,16480,,Middle,S20,,Arch_New,d,c
+9347_New Type_16480_S20_Middle_1x1_l_c,9347,Nikon,1x,1,8413,16480,,Middle,S20,,Arch_New,l,c
+9350_New Type_22637_S4_Middle_1x1_d_c,9350,Nikon,1x,1,12015,22637,,Mid,S4,,Arch_New,d,c
+9351_New Type_22637_S4_Middle_1x1_l_c,9351,Nikon,1x,1,12015,22637,,Mid,S4,,Arch_New,l,c
+9352_New Type_22637_S5_Middle_1x1_d_c,9352,Nikon,1x,1,12015,22637,,Mid,S5,,Arch_New,d,c
+9353_New Type_22637_S5_Middle_1x1_l_c,9353,Nikon,1x,1,12015,22637,,Mid,S5,,Arch_New,l,c
+9354_New Type_22637_S6_Middle_1x1_d_c,9354,Nikon,1x,1,12015,22637,,Mid,S6,,Arch_New,d,c
+9355_New Type_22637_S6_Middle_1x1_l_c,9355,Nikon,1x,1,12015,22637,,Mid,S6,,Arch_New,l,c
+9356_New Type_22637_S7_Middle_1x1_d_c,9356,Nikon,1x,1,12015,22637,,Mid,S7,,Arch_New,d,c
+9357_New Type_22637_S7_Middle_1x1_l_c,9357,Nikon,1x,1,12015,22637,,Mid,S7,,Arch_New,l,c
+9358_New Type_22637_S8_Middle_1x1_d_c,9358,Nikon,1x,1,12015,22637,,Mid,S8,,Arch_New,d,c
+9359_New Type_22637_S8_Middle_1x1_l_c,9359,Nikon,1x,1,12015,22637,,Mid,S8,,Arch_New,l,c
+9360_New Type_22637_S9_Middle_1x1_d_c,9360,Nikon,1x,1,12015,22637,,Mid,S9,,Arch_New,d,c
+9361_New Type_22637_S9_Middle_1x1_l_c,9361,Nikon,1x,1,12015,22637,,Mid,S9,,Arch_New,l,c
+9362_New Type_22637_S10_Middle_1x1_d_c,9362,Nikon,1x,1,12015,22637,,Mid,S10,,Arch_New,d,c
+9363_New Type_22637_S10_Middle_1x1_l_c,9363,Nikon,1x,1,12015,22637,,Mid,S10,,Arch_New,l,c
+9364_New Type_22637_S11_Middle_1x1_d_c,9364,Nikon,1x,1,12015,22637,,Mid,S11,,Arch_New,d,c
+9365_New Type_22637_S11_Middle_1x1_l_c,9365,Nikon,1x,1,12015,22637,,Mid,S11,,Arch_New,l,c
+9368_New Type_22637_S13_Middle_1x1_d_c,9368,Nikon,1x,1,12015,22637,,Mid,S13,,Arch_New,d,c
+9369_New Type_22637_S13_Middle_1x1_l_c,9369,Nikon,1x,1,12015,22637,,Mid,S13,,Arch_New,l,c
+9370_New Type_22637_S14_Middle_1x1_d_c,9370,Nikon,1x,1,12015,22637,,Mid,S14,,Arch_New,d,c
+9371_New Type_22637_S14_Middle_1x1_l_c,9371,Nikon,1x,1,12015,22637,,Mid,S14,,Arch_New,l,c
+9372_New Type_22637_S15_Middle_1x1_d_c,9372,Nikon,1x,1,12015,22637,,Mid,S15,,Arch_New,d,c
+9373_New Type_22637_S15_Middle_1x1_l_c,9373,Nikon,1x,1,12015,22637,,Mid,S15,,Arch_New,l,c
+9374_New Type_22637_S16_Middle_1x1_d_c,9374,Nikon,1x,1,12015,22637,,Mid,S16,,Arch_New,d,c
+9375_New Type_22637_S16_Middle_1x1_l_c,9375,Nikon,1x,1,12015,22637,,Mid,S16,,Arch_New,l,c
+9376_New Type_22637_S17_Middle_1x1_d_c,9376,Nikon,1x,1,12015,22637,,Mid,S17,,Arch_New,d,c
+9377_New Type_22637_S17_Middle_1x1_l_c,9377,Nikon,1x,1,12015,22637,,Mid,S17,,Arch_New,l,c
+9378_New Type_22637_S18_Middle_1x1_d_c,9378,Nikon,1x,1,12015,22637,,Mid,S18,,Arch_New,d,c
+9379_New Type_22637_S18_Middle_1x1_l_c,9379,Nikon,1x,1,12015,22637,,Mid,S18,,Arch_New,l,c
+9382_New Type_22637_S20_Middle_1x1_d_c,9382,Nikon,1x,1,12015,22637,,Mid,S20,,Arch_New,d,c
+9383_New Type_22637_S20_Middle_1x1_l_c,9383,Nikon,1x,1,12015,22637,,Mid,S20,,Arch_New,l,c
+9384_New Type_22637_S21_Middle_1x1_d_c,9384,Nikon,1x,1,12015,22637,,Mid,S21,,Arch_New,d,c
+9385_New Type_22637_S21_Middle_1x1_l_c,9385,Nikon,1x,1,12015,22637,,Mid,S21,,Arch_New,l,c
+9386_New Type_30785_S4_Late_1x1_d_c,9386,Nikon,1x,1,10922,30785,,Late,S4,,Arch_New,d,c
+9387_New Type_30785_S4_Late_1x1_l_c,9387,Nikon,1x,1,10922,30785,,Late,S4,,Arch_New,l,c
+9388_New Type_30785_S5_Late_1x1_d_c,9388,Nikon,1x,1,10922,30785,,Late,S5,,Arch_New,d,c
+9389_New Type_30785_S5_Late_1x1_l_c,9389,Nikon,1x,1,10922,30785,,Late,S5,,Arch_New,l,c
+9392_Emmer_2306_S2_Middle_1x1_d_c,9392,Nikon,1x,1,940,2306,,Middle,S2,,Arch_Emmer,d,c
+9393_Emmer_2306_S2_Middle_1x1_l_c,9393,Nikon,1x,1,940,2306,,Middle,S2,,Arch_Emmer,l,c
+9394_New_22656_S15_Middle_1x1_d_c,9394,Nikon,1x,1,11996,22656,,Mid,S15,,Arch_New,d,c
+9395_New_22656_S15_Middle_1x1_l_c,9395,Nikon,1x,1,11996,22656,,Mid,S15,,Arch_New,l,c
+9396_New_22656_S16_Middle_1x1_d_c,9396,Nikon,1x,1,11996,22656,,Mid,S16,,Arch_New,d,c
+9397_New_22656_S16_Middle_1x1_l_c,9397,Nikon,1x,1,11996,22656,,Mid,S16,,Arch_New,l,c
+9398_New_22656_S17_Middle_1x1_d_c,9398,Nikon,1x,1,11996,22656,,Mid,S17,,Arch_New,d,c
+9399_New_22656_S17_Middle_1x1_l_c,9399,Nikon,1x,1,11996,22656,,Mid,S17,,Arch_New,l,c
+9400_New_22656_S18_Middle_1x1_d_c,9400,Nikon,1x,1,11996,22656,,Middle,S18,,Arch_New,d,c
+9401_New_22656_S18_Middle_1x1_l_c,9401,Nikon,1x,1,11996,22656,,Middle,S18,,Arch_New,l,c
+9402_New_22656_S19_Middle_1x1_d_c,9402,Nikon,1x,1,11996,22656,,Middle,S19,,Arch_New,d,c
+9403_New_22656_S19_Middle_1x1_l_c,9403,Nikon,1x,1,11996,22656,,Middle,S19,,Arch_New,l,c
+9404_New_22656_S20_Middle_1x1_d_c,9404,Nikon,1x,1,11996,22656,,Middle,S20,,Arch_New,d,c
+9405_New_22656_S20_Middle_1x1_l_c,9405,Nikon,1x,1,11996,22656,,Middle,S20,,Arch_New,l,c
+9406_New_22656_S21_Middle_1x1_d_c,9406,Nikon,1x,1,11996,22656,,Middle,S21,,Arch_New,d,c
+9407_New_22656_S21_Middle_1x1_l_c,9407,Nikon,1x,1,11996,22656,,Middle,S21,,Arch_New,l,c
+9408_New_22656_S22_Middle_1x1_d_c,9408,Nikon,1x,1,11996,22656,,Middle,S22,,Arch_New,d,c
+9409_New_22656_S22_Middle_1x1_l_c,9409,Nikon,1x,1,11996,22656,,Middle,S22,,Arch_New,l,c
+9412_New_22656_S24_Middle_1x1_d_c,9412,Nikon,1x,1,11996,22656,,Middle,S24,,Arch_New,d,c
+9413_New_22656_S24_Middle_1x1_l_c,9413,Nikon,1x,1,11996,22656,,Middle,S24,,Arch_New,l,c
+9414_New_22656_S25_Middle_1x1_d_c,9414,Nikon,1x,1,11996,22656,,Middle,S25,,Arch_New,d,c
+9415_New_22656_S25_Middle_1x1_l_c,9415,Nikon,1x,1,11996,22656,,Middle,S25,,Arch_New,l,c
+9416_New_22656_S26_Middle_1x1_d_c,9416,Nikon,1x,1,11996,22656,,Middle,S26,,Arch_New,d,c
+9417_New_22656_S26_Middle_1x1_l_c,9417,Nikon,1x,1,11996,22656,,Middle,S26,,Arch_New,l,c
+9418_New_22656_S27_Middle_1x1_d_c,9418,Nikon,1x,1,11996,22656,,Middle,S27,,Arch_New,d,c
+9419_New_22656_S27_Middle_1x1_l_c,9419,Nikon,1x,1,11996,22656,,Middle,S27,,Arch_New,l,c
+9428_Emmer_4869_S1_Early_1x1_d_c,9428,Nikon,1x,1,3151,4869,,Early,S1,,Arch_Emmer,d,c
+9429_Emmer_4869_S1_Early_1x1_l_c,9429,Nikon,1x,1,3151,4869,,Early,S1,,Arch_Emmer,l,c
+9430_Emmer_4869_S2_Early_1x1_d_c,9430,Nikon,1x,1,3151,4869,,Early,S2,,Arch_Emmer,d,c
+9431_Emmer_4869_S2_Early_1x1_l_c,9431,Nikon,1x,1,3151,4869,,Early,S2,,Arch_Emmer,l,c
+9432_cf. 2gr einkorn_4869_S1_Early_1x1_d_c,9432,Nikon,1x,1,3151,4869,,Early,S1,,Arch_New,d,c
+9433_cf. 2gr einkorn_4869_S1_Early_1x1_l_c,9433,Nikon,1x,1,3151,4869,,Early,S1,,Arch_New,l,c
+9434_indet_4869_S2_Early_1x1_d_c,9434,Nikon,1x,1,3151,4869,,Early,S2,,Arch_New,d,c
+9435_indet_4869_S2_Early_1x1_l_c,9435,Nikon,1x,1,3151,4869,,Early,S2,,Arch_New,l,c
+9436_EmmerORNew_22834_S2_Late_1x1_d_c,9436,Nikon,1x,1,12155,22834,,Late,S2,,Arch_Emmer,d,c
+9437_EmmerORNew_22834_S2_Late_1x1_l_c,9437,Nikon,1x,1,12155,22834,,Late,S2,,Arch_Emmer,l,c
+9440_EmmerORNew_22834_S4_Late_1x1_d_c,9440,Nikon,1x,1,12155,22834,,Late,S4,,Arch_New,d,c
+9441_EmmerORNew_22834_S4_Late_1x1_l_c,9441,Nikon,1x,1,12155,22834,,Late,S4,,Arch_New,l,c
+9444_EmmerORNew_22834_S6_Late_1x1_d_c,9444,Nikon,1x,1,12155,22834,,Late,S6,,Arch_Emmer,d,c
+9445_EmmerORNew_22834_S6_Late_1x1_l_c,9445,Nikon,1x,1,12155,22834,,Late,S6,,Arch_Emmer,l,c
+9446_2gr einkorn_3705_S2_Early_1x1_d_c,9446,Nikon,1x,1,1804,3705,,Early,S2,,Arch_New,d,c
+9447_2gr einkorn_3705_S2_Early_1x1_l_c,9447,Nikon,1x,1,1804,3705,,Early,S2,,Arch_New,l,c
+9448_EmmerorEinkorn_3705_S1_Early_1x1_d_c,9448,Nikon,1x,1,1804,3705,,Early,S1,,Arch_Emmer,d,c
+9449_EmmerorEinkorn_3705_S1_Early_1x1_l_c,9449,Nikon,1x,1,1804,3705,,Early,S1,,Arch_Emmer,l,c
+9454_Emmer_32046_S2_Middle_1x1_d_c,9454,Nikon,1x,1,12717,32046,,Middle,S2,,Arch_Emmer,d,c
+9455_Emmer_32046_S2_Middle_1x1_l_c,9455,Nikon,1x,1,12717,32046,,Middle,S2,,Arch_Emmer,l,c
+9462_Emmer_32046_S4_Middle_1x1_d_c,9462,Nikon,1x,1,12717,32046,,Middle,S4,,Arch_Emmer,d,c
+9463_Emmer_32046_S4_Middle_1x1_l_c,9463,Nikon,1x,1,12717,32046,,Middle,S4,,Arch_Emmer,l,c
+9464_Emmer_32046_S5_Middle_1x1_d_c,9464,Nikon,1x,1,12717,32046,,Middle,S5,,Arch_Emmer,d,c
+9465_Emmer_32046_S5_Middle_1x1_l_c,9465,Nikon,1x,1,12717,32046,,Middle,S5,,Arch_Emmer,l,c
+9468_Emmer_14305_S2_Late_1x1_d_c,9468,Nikon,1x,1,7104,14305,,Late,S2,,Arch_New,d,c
+9469_Emmer_14305_S2_Late_1x1_l_c,9469,Nikon,1x,1,7104,14305,,Late,S2,,Arch_New,l,c
+9470_NoID_14305_S1_Late_1x1_d_c,9470,Nikon,1x,1,7104,14305,,Late,S1,,Arch_New,d,c
+9471_NoID_14305_S1_Late_1x1_l_c,9471,Nikon,1x,1,7104,14305,,Late,S1,,Arch_New,l,c
+9472_New_14305_S1_Late_1x1_d_c,9472,Nikon,1x,1,7104,14305,,Late,S1,,Arch_New,d,c
+9473_New_14305_S1_Late_1x1_l_c,9473,Nikon,1x,1,7104,14305,,Late,S1,,Arch_New,l,c
+9476_New_20703_S16_Late_1x1_d_c,9476,Nikon,1x,1,10830,20703,,Late,S16,,Arch_New,d,c
+9477_New_20703_S16_Late_1x1_l_c,9477,Nikon,1x,1,10830,20703,,Late,S16,,Arch_New,l,c
+9478_New_20703_S17_Late_1x1_d_c,9478,Nikon,1x,1,10830,20703,,Late,S17,,Arch_New,d,c
+9479_New_20703_S17_Late_1x1_l_c,9479,Nikon,1x,1,10830,20703,,Late,S17,,Arch_New,l,c
+9506_NotID_20703_S5_Late_1x1_d_c,9506,Nikon,1x,1,10830,20703,,Late,S5,,Arch_Emmer,d,c
+9507_NotID_20703_S5_Arch_New_1x1_l_c,9507,Nikon,1x,1,10830,20703,,Late,S5,,Arch_Emmer,l,c
+9508_NotID_20703_S6_Arch_New_1x1_d_c,9508,Nikon,1x,1,10830,20703,,Late,S6,,Arch_Emmer,d,c
+9509_NotID_20703_S6_Arch_New_1x1_l_c,9509,Nikon,1x,1,10830,20703,,Late,S6,,Arch_Emmer,l,c
+9526_NotID_1588_S1_Arch_New_1x1_d_c,9526,Nikon,1x,1,295,1588,,Early,S1,,Arch_New,d,c
+9527_NotID_1588_S1_Arch_New_1x1_l_c,9527,Nikon,1x,1,295,1588,,Early,S1,,Arch_New,l,c
+9532_NotID_1588_S4_Arch_New_1x1_d_c,9532,Nikon,1x,1,295,1588,,Early,S4,,Arch_Emmer,d,c
+9533_NotID_1588_S4_Arch_New_1x1_l_c,9533,Nikon,1x,1,295,1588,,Early,S4,,Arch_Emmer,l,c
+9534_NotID_1588_S5_Arch_New_1x1_d_c,9534,Nikon,1x,1,295,1588,,Early,S5,,Arch_New,d,c
+9535_NotID_1588_S5_Arch_New_1x1_l_c,9535,Nikon,1x,1,295,1588,,Early,S5,,Arch_New,l,c
+9538_NotID_1588_S7_Arch_New_1x1_d_c,9538,Nikon,1x,1,295,1588,,Early,S7,,Arch_New,d,c
+9539_NotID_1588_S7_Arch_New_1x1_l_c,9539,Nikon,1x,1,295,1588,,Early,S7,,Arch_New,l,c
+9540_NotID_1588_S8_Arch_New_1x1_d_c,9540,Nikon,1x,1,295,1588,,Early,S8,,Arch_New,d,c
+9541_NotID_1588_S8_Arch_New_1x1_l_c,9541,Nikon,1x,1,295,1588,,Early,S8,,Arch_New,l,c
+9544_NotID_1588_S10_Arch_New_1x1_d_c,9544,Nikon,1x,1,295,1588,,Early,S10,,Arch_Emmer,d,c
+9545_NotID_1588_S10_Arch_New_1x1_l_c,9545,Nikon,1x,1,295,1588,,Early,S10,,Arch_Emmer,l,c
+9552_NotID_1588_S14_Arch_New_1x1_d_c,9552,Nikon,1x,1,295,1588,,Early,S14,,Arch_New,d,c
+9553_NotID_1588_S14_Arch_New_1x1_l_c,9553,Nikon,1x,1,295,1588,,Early,S14,,Arch_New,l,c
+9554_2S_GW_1084_S1_Arch_New_1x1_d_c,9554,Nikon,1x,1,8328,1084,,Late,S1,,Arch_New,d,c
+9555_2S_GW_1084_S1_Arch_New_1x1_l_c,9555,Nikon,1x,1,8328,1084,,Late,S1,,Arch_New,l,c
+9566_Emmer_16268_S1_Arch_New_1x1_d_c,9566,Nikon,1x,1,7861,16268,,Late,S1,,Arch_Emmer,d,c
+9567_Emmer_16268_S1_Arch_New_1x1_l_c,9567,Nikon,1x,1,7861,16268,,Late,S1,,Arch_Emmer,l,c
+9574_Emmer_18949_S1_Arch_Newdle_1x1_d_c,9574,Nikon,1x,1,9255,18949,,Mid,S1,,Arch_Emmer,d,c
+9575_Emmer_18949_S1_Arch_Newdle_1x1_l_c,9575,Nikon,1x,1,9255,18949,,Mid,S1,,Arch_Emmer,l,c
+9576_Emmer_18949_S2_Arch_Newdle_1x1_d_c,9576,Nikon,1x,1,9255,18949,,Mid,S2,,Arch_Emmer,d,c
+9577_Emmer_18949_S2_Arch_Newdle_1x1_l_c,9577,Nikon,1x,1,9255,18949,,Mid,S2,,Arch_Emmer,l,c
+9578_2S_GW_18949_S1_Arch_Newdle_1x1_d_c,9578,Nikon,1x,1,9255,18949,,Mid,S1,,Arch_Emmer,d,c
+9579_2S_GW_18949_S1_Arch_Newdle_1x1_l_c,9579,Nikon,1x,1,9255,18949,,Mid,S1,,Arch_Emmer,l,c
+9580_Emmer_31320_S1_Arch_New_1x1_d_c,9580,Nikon,1x,1,12089,31320,,Late,S1,,Arch_Emmer,d,c
+9581_Emmer_31320_S1_Arch_New_1x1_l_c,9581,Nikon,1x,1,12089,31320,,Late,S1,,Arch_Emmer,l,c
+9584_Mixed_31320_S2_Arch_New_1x1_d_c,9584,Nikon,1x,1,12089,31320,,Late,S2,,Arch_New,d,c
+9585_Mixed_31320_S2_Arch_New_1x1_l_c,9585,Nikon,1x,1,12089,31320,,Late,S2,,Arch_New,l,c
+9586_Emmer_31320_S2_Arch_New_1x1_d_c,9586,Nikon,1x,1,12089,31320,,Late,S2,,Arch_New,d,c
+9587_Emmer_31320_S2_Arch_New_1x1_l_c,9587,Nikon,1x,1,12089,31320,,Late,S2,,Arch_New,l,c
+9588_Emmer_31320_S3_Arch_New_1x1_d_c,9588,Nikon,1x,1,12089,31320,,Late,S3,,Arch_Emmer,d,c
+9589_Emmer_31320_S3_Arch_New_1x1_l_c,9589,Nikon,1x,1,12089,31320,,Late,S3,,Arch_Emmer,l,c
+9596_Mixed_31320_S6_Arch_New_1x1_d_c,9596,Nikon,1x,1,12089,31320,,Late,S6,,Arch_Emmer,d,c
+9597_Mixed_31320_S6_Arch_New_1x1_l_c,9597,Nikon,1x,1,12089,31320,,Late,S6,,Arch_Emmer,l,c
+9602_2gr.einkorn_4917_S1_Arch_New_1x1_d_c,9602,Nikon,1x,1,2985,4917,,Early,S1,,Arch_New,d,c
+9603_2gr.einkorn_4917_S1_Arch_New_1x1_l_c,9603,Nikon,1x,1,2985,4917,,Early,S1,,Arch_New,l,c
+9604_Emmer_1612_S1_Arch_New_1x1_d_c,9604,Nikon,1x,1,345,1612,,Early,S1,,Arch_Emmer,d,c
+9605_Emmer_1612_S1_Arch_New_1x1_l_c,9605,Nikon,1x,1,345,1612,,Early,S1,,Arch_Emmer,l,c
+9606_2gr.einkorn_1612_S1_Arch_New_1x1_d_c,9606,Nikon,1x,1,345,1612,,Early,S1,,Arch_New,d,c
+9607_2gr.einkorn_1612_S1_Arch_New_1x1_l_c,9607,Nikon,1x,1,345,1612,,Early,S1,,Arch_New,l,c
+9608_Emmer_2032_S1_Early_1x1_d_c,9608,Nikon,1x,1,830,2032,,Early,S1,,Arch_Emmer,d,c
+9609_Emmer_2032_S1_Early_1x1_l_c,9609,Nikon,1x,1,830,2032,,Early,S1,,Arch_Emmer,l,c
+9610_EmmerORNew_4937_S1_Early_1x1_d_c,9610,Nikon,1x,1,3099,4937,,Early,S1,,Arch_Emmer,d,c
+9611_EmmerORNew_4937_S1_Early_1x1_l_c,9611,Nikon,1x,1,3099,4937,,Early,S1,,Arch_Emmer,l,c
+9614_Mixed_23214_S1_Early_1x1_d_c,9614,Nikon,1x,1,13325,23214,,Early,S1,,Arch_Emmer,d,c
+9615_Mixed_23214_S1_Early_1x1_l_c,9615,Nikon,1x,1,13325,23214,,Early,S1,,Arch_Emmer,l,c
+9616_2S_GW_23203_S1_Early_1x1_d_c,9616,Nikon,1x,1,13253,23203,,Early,S1,,Arch_New,d,c
+9617_2S_GW_23203_S1_Early_1x1_l_c,9617,Nikon,1x,1,13253,23203,,Early,S1,,Arch_New,l,c
+9618_Emmer_4256_S1_Early_1x1_d_c,9618,Nikon,1x,1,2535,4256,,Early,S1,,Arch_Emmer,d,c
+9619_Emmer_4256_S1_Early_1x1_l_c,9619,Nikon,1x,1,2535,4256,,Early,S1,,Arch_Emmer,l,c
+9622_NotID_1664_S1_Early_1x1_d_c,9622,Nikon,1x,1,513,1664,,Early,S1,,Arch_New,d,c
+9623_NotID_1664_S1_Early_1x1_l_c,9623,Nikon,1x,1,513,1664,,Early,S1,,Arch_New,l,c
+9624_cf.New_14132_S1_Late_1x1_d_c,9624,Nikon,1x,1,7107,14132,,Late,S1,,Arch_New,d,c
+9625_cf.New_14132_S1_Late_1x1_l_c,9625,Nikon,1x,1,7107,14132,,Late,S1,,Arch_New,l,c
+9626_NotID_14132_S1_Late_1x1_d_c,9626,Nikon,1x,1,7107,14132,,Late,S1,,Arch_New,d,c
+9627_NotID_14132_S1_Late_1x1_l_c,9627,Nikon,1x,1,7107,14132,,Late,S1,,Arch_New,l,c
+9628_NotID_14132_S2_Late_1x1_d_c,9628,Nikon,1x,1,7107,14132,,Late,S2,,Arch_New,d,c
+9629_NotID_14132_S2_Late_1x1_l_c,9629,Nikon,1x,1,7107,14132,,Late,S2,,Arch_New,l,c
+9630_NotID_14132_S3_Late_1x1_d_c,9630,Nikon,1x,1,7107,14132,,Late,S3,,Arch_Emmer,d,c
+9631_NotID_14132_S3_Late_1x1_l_c,9631,Nikon,1x,1,7107,14132,,Late,S3,,Arch_Emmer,l,c
+9632_NotID_14132_S4_Late_1x1_d_c,9632,Nikon,1x,1,7107,14132,,Late,S4,,Arch_New,d,c
+9633_NotID_14132_S4_Late_1x1_l_c,9633,Nikon,1x,1,7107,14132,,Late,S4,,Arch_New,l,c
+9634_NotID_14132_S5_Late_1x1_d_c,9634,Nikon,1x,1,7107,14132,,Late,S5,,Arch_Emmer,d,c
+9635_NotID_14132_S5_Late_1x1_l_c,9635,Nikon,1x,1,7107,14132,,Late,S5,,Arch_Emmer,l,c
+9636_NotID_14132_S6_Late_1x1_d_c,9636,Nikon,1x,1,7107,14132,,Late,S6,,Arch_New,d,c
+9637_NotID_14132_S6_Late_1x1_l_c,9637,Nikon,1x,1,7107,14132,,Late,S6,,Arch_New,l,c
+9638_NotID_14132_S7_Late_1x1_d_c,9638,Nikon,1x,1,7107,14132,,Late,S7,,Arch_New,d,c
+9639_NotID_14132_S7_Late_1x1_l_c,9639,Nikon,1x,1,7107,14132,,Late,S7,,Arch_New,l,c
+9640_NotID_14132_S8_Late_1x1_d_c,9640,Nikon,1x,1,7107,14132,,Late,S8,,Arch_New,d,c
+9641_NotID_14132_S8_Late_1x1_l_c,9641,Nikon,1x,1,7107,14132,,Late,S8,,Arch_New,l,c
+9642_NotID_14132_S9_Late_1x1_d_c,9642,Nikon,1x,1,7107,14132,,Late,S9,,Arch_New,d,c
+9643_NotID_14132_S9_Late_1x1_l_c,9643,Nikon,1x,1,7107,14132,,Late,S9,,Arch_New,l,c
+9650_Emmer_17082_S1_Late_1x1_d_c,9650,Nikon,1x,1,8326,17082,,Late,S1,,Arch_Emmer,d,c
+9651_Emmer_17082_S1_Late_1x1_l_c,9651,Nikon,1x,1,8326,17082,,Late,S1,,Arch_Emmer,l,c
+9654_New_17082_S1_Late_1x1_d_c,9654,Nikon,1x,1,8326,17082,,Late,S1,,Arch_New,d,c
+9655_New_17082_S1_Late_1x1_l_c,9655,Nikon,1x,1,8326,17082,,Late,S1,,Arch_New,l,c
+9656_New_17082_S2_Late_1x1_d_c,9656,Nikon,1x,1,8326,17082,,Late,S2,,Arch_New,d,c
+9657_New_17082_S2_Late_1x1_l_c,9657,Nikon,1x,1,8326,17082,,Late,S2,,Arch_New,l,c
+9660_New_17082_S4_Late_1x1_d_c,9660,Nikon,1x,1,8326,17082,,Late,S4,,Arch_New,d,c
+9661_New_17082_S4_Late_1x1_l_c,9661,Nikon,1x,1,8326,17082,,Late,S4,,Arch_New,l,c
+9662_NotID_17082_S1_Late_1x1_d_c,9662,Nikon,1x,1,8326,17082,,Late,S1,,Arch_Emmer,d,c
+9663_NotID_17082_S1_Late_1x1_l_c,9663,Nikon,1x,1,8326,17082,,Late,S1,,Arch_Emmer,l,c
+9664_NotID_22334_S1_Late_1x1_d_c,9664,Nikon,1x,1,12576,22334,,Early,S1,,Arch_New,d,c
+9665_NotID_22334_S1_Late_1x1_l_c,9665,Nikon,1x,1,12576,22334,,Early,S1,,Arch_New,l,c
+9666_NotID_22334_S2_Late_1x1_d_c,9666,Nikon,1x,1,12576,22334,,Early,S2,,Arch_Emmer,d,c
+9667_NotID_22334_S2_Late_1x1_l_c,9667,Nikon,1x,1,12576,22334,,Early,S2,,Arch_Emmer,l,c
+9668_NotID_32405_S1_Early_1x1_d_c,9668,Nikon,1x,1,12663,32405,,Early,S1,,Arch_Emmer,d,c
+9669_NotID_32405_S1_Early_1x1_l_c,9669,Nikon,1x,1,12663,32405,,Early,S1,,Arch_Emmer,l,c
+9670_NotID_22713_S1_Late_1x1_d_c,9670,Nikon,1x,1,11856,22713,,Late,S1,,Arch_New,d,c
+9671_New_22713_S1_Late_1x1_l_c,9671,Nikon,1x,1,11856,22713,,Late,S1,,Arch_New,l,c
+9678_New_22713_S5_Late_1x1_d_c,9678,Nikon,1x,1,11856,22713,,Late,S5,,Arch_Emmer,d,c
+9679_New_22713_S5_Late_1x1_l_c,9679,Nikon,1x,1,11856,22713,,Late,S5,,Arch_Emmer,l,c
+9684_cf.Emmer_22713_S2_Late_1x1_d_c,9684,Nikon,1x,1,11856,22713,,Late,S2,,Arch_Emmer,d,c
+9685_cf.Emmer_22713_S2_Late_1x1_l_c,9685,Nikon,1x,1,11856,22713,,Late,S2,,Arch_Emmer,l,c
+9686_New_22823_S1_Late_1x1_d_c,9686,Nikon,1x,1,12296,22823,,Late,S1,,Arch_New,d,c
+9687_New_22823_S1_Late_1x1_l_c,9687,Nikon,1x,1,12296,22823,,Late,S1,,Arch_New,l,c
+9688_Emmer_22823_S1_Late_1x1_d_c,9688,Nikon,1x,1,12296,22823,,Late,S1,,Arch_Emmer,d,c
+9689_Emmer_22823_S1_Late_1x1_l_c,9689,Nikon,1x,1,12296,22823,,Late,S1,,Arch_Emmer,l,c
+9690_NotID_32453_S1_Early_1x1_d_c,9690,Nikon,1x,1,12755,32453,,Early,S1,,Arch_Emmer,d,c
+9691_NotID_32453_S1_Early_1x1_l_c,9691,Nikon,1x,1,12755,32453,,Early,S1,,Arch_Emmer,l,c
+9692_Emmer_22867_S1_Late_1x1_d_c,9692,Nikon,1x,1,12317,22867,,Late,S1,,Arch_Emmer,d,c
+9693_Emmer_22867_S1_Late_1x1_l_c,9693,Nikon,1x,1,12317,22867,,Late,S1,,Arch_Emmer,l,c
+9694_Emmer_22867_S2_Late_1x1_d_c,9694,Nikon,1x,1,12317,22867,,Late,S2,,Arch_Emmer,d,c
+9695_Emmer_22867_S2_Late_1x1_l_c,9695,Nikon,1x,1,12317,22867,,Late,S2,,Arch_Emmer,l,c
+9698_NotID_22867_S1_Late_1x1_d_c,9698,Nikon,1x,1,12317,22867,,Late,S1,,Arch_New,d,c
+9699_NotID_22867_S1_Late_1x1_l_c,9699,Nikon,1x,1,12317,22867,,Late,S1,,Arch_New,l,c
+9704_Emmer_20403_S1_Middle_1x1_d_c,9704,Nikon,1x,1,9798,20403,,Middle,S1,,Arch_New,d,c
+9705_Emmer_20403_S1_Middle_1x1_l_c,9705,Nikon,1x,1,9798,20403,,Middle,S1,,Arch_New,l,c
+9706_NotID_20403_S2_Middle_1x1_d_c,9706,Nikon,1x,1,9798,20403,,Middle,S2,,Arch_Emmer,d,c
+9707_NotID_20403_S2_Middle_1x1_l_c,9707,Nikon,1x,1,9798,20403,,Middle,S2,,Arch_Emmer,l,c
+9712_Emmer_20403_S2_Middle_1x1_d_c,9712,Nikon,1x,1,9798,20403,,Middle,S2,,Arch_New,d,c
+9713_Emmer_20403_S2_Middle_1x1_l_c,9713,Nikon,1x,1,9798,20403,,Middle,S2,,Arch_New,l,c
+9714_New_22656_S1_Middle_1x1_d_c,9714,Nikon,1x,1,11995,22656,,Middle,S1,,Arch_New,d,c
+9715_New_22656_S1_Middle_1x1_l_c,9715,Nikon,1x,1,11995,22656,,Middle,S1,,Arch_New,l,c
+9718_New_22656_S3_Middle_1x1_d_c,9718,Nikon,1x,1,11995,22656,,Middle,S3,,Arch_New,d,c
+9719_New_22656_S3_Middle_1x1_l_c,9719,Nikon,1x,1,11995,22656,,Middle,S3,,Arch_New,l,c
+9720_New_22656_S4_Middle_1x1_d_c,9720,Nikon,1x,1,11995,22656,,Middle,S4,,Arch_New,d,c
+9721_New_22656_S4_Middle_1x1_l_c,9721,Nikon,1x,1,11995,22656,,Middle,S4,,Arch_New,l,c
+9722_New_22656_S5_Middle_1x1_d_c,9722,Nikon,1x,1,11995,22656,,Middle,S5,,Arch_New,d,c
+9723_New_22656_S5_Middle_1x1_l_c,9723,Nikon,1x,1,11995,22656,,Middle,S5,,Arch_New,l,c
+9724_New_22656_S6_Middle_1x1_d_c,9724,Nikon,1x,1,11995,22656,,Middle,S6,,Arch_New,d,c
+9725_New_22656_S6_Middle_1x1_l_c,9725,Nikon,1x,1,11995,22656,,Middle,S6,,Arch_New,l,c
+9730_New_22656_S9_Middle_1x1_d_c,9730,Nikon,1x,1,11995,22656,,Middle,S9,,Arch_New,d,c
+9731_New_22656_S9_Middle_1x1_l_c,9731,Nikon,1x,1,11995,22656,,Middle,S9,,Arch_New,l,c
+9732_New_22656_S10_Middle_1x1_d_c,9732,Nikon,1x,1,11995,22656,,Middle,S10,,Arch_New,d,c
+9733_New_22656_S10_Middle_1x1_l_c,9733,Nikon,1x,1,11995,22656,,Middle,S10,,Arch_New,l,c
+9738_New_22656_S13_Middle_1x1_d_c,9738,Nikon,1x,1,11995,22656,,Middle,S13,,Arch_New,d,c
+9739_New_22656_S13_Middle_1x1_l_c,9739,Nikon,1x,1,11995,22656,,Middle,S13,,Arch_New,l,c
+9746_New_22656_S17_Middle_1x1_d_c,9746,Nikon,1x,1,11995,22656,,Middle,S17,,Arch_New,d,c
+9747_New_22656_S17_Middle_1x1_l_c,9747,Nikon,1x,1,11995,22656,,Middle,S17,,Arch_New,l,c
+9748_New_22656_S18_Middle_1x1_d_c,9748,Nikon,1x,1,11995,22656,,Middle,S18,,Arch_New,d,c
+9749_New_22656_S18_Middle_1x1_l_c,9749,Nikon,1x,1,11995,22656,,Middle,S18,,Arch_New,l,c
+9750_Emmer_1513_S1_Early_1x1_d_c,9750,Nikon,1x,1,366,1513,,Early,S1,,Arch_Emmer,d,c
+9751_Emmer_1513_S1_Early_1x1_l_c,9751,Nikon,1x,1,366,1513,,Early,S1,,Arch_Emmer,l,c
+9752_EmmerORNew_1513_S2_Early_1x1_d_c,9752,Nikon,1x,1,366,1513,,Early,S2,,Arch_New,d,c
+9753_EmmerORNew_1513_S2_Early_1x1_l_c,9753,Nikon,1x,1,366,1513,,Early,S2,,Arch_New,l,c
+9754_2gr.einkorn_1513_S1_Early_1x1_d_c,9754,Nikon,1x,1,366,1513,,Early,S1,,Arch_Emmer,d,c
+9755_2gr.einkorn_1513_S1_Early_1x1_l_c,9755,Nikon,1x,1,366,1513,,Early,S1,,Arch_Emmer,l,c
+9758_Emmer_1291_S1_Middle_1x1_d_c,9758,Nikon,1x,1,332,1291,,Middle,S1,,Arch_Emmer,d,c
+9759_Emmer_1291_S1_Middle_1x1_l_c,9759,Nikon,1x,1,332,1291,,Middle,S1,,Arch_Emmer,l,c
+9762_Emmer_1254_S1_Middle_1x1_d_c,9762,Nikon,1x,1,282,1254,,Mid,S1,,Arch_Emmer,d,c
+9763_Emmer_1254_S1_Middle_1x1_l_c,9763,Nikon,1x,1,282,1254,,Mid,S1,,Arch_Emmer,l,c
+9766_Emmer_8391_S1_Middle_1x1_d_c,9766,Nikon,1x,1,5030,8391,,Middle,S1,,Arch_New,d,c
+9767_Emmer_8391_S1_Middle_1x1_l_c,9767,Nikon,1x,1,5030,8391,,Middle,S1,,Arch_New,l,c
+9768_Emmer_8253_S1_Late_1x1_d_c,9768,Nikon,1x,1,4741,8253,,Late,S1,,Arch_Emmer,d,c
+9769_Emmer_8253_S1_Late_1x1_l_c,9769,Nikon,1x,1,4741,8253,,Late,S1,,Arch_Emmer,l,c
+9770_Emmer_1889_S1_Early_1x1_d_c,9770,Nikon,1x,1,813,1889,,Early,S1,,Arch_Emmer,d,c
+9771_Emmer_1889_S1_Early_1x1_l_c,9771,Nikon,1x,1,813,1889,,Early,S1,,Arch_Emmer,l,c
+9772_EmmerOREinkorn_1889_S1_Early_1x1_d_c,9772,Nikon,1x,1,813,1889,,Early,S1,,Arch_Emmer,d,c
+9773_EmmerOREinkorn_1889_S1_Early_1x1_l_c,9773,Nikon,1x,1,813,1889,,Early,S1,,Arch_Emmer,l,c
+9774_Emmer_18596_S18_Mid_1x1_d_c,9774,Nikon,1x,1,18596,18596,,Mid,S18,,Arch_Emmer,d,c
+9775_Emmer_18596_S18_Mid_1x1_l_c,9775,Nikon,1x,1,18596,18596,,Mid,S18,,Arch_Emmer,l,c
+9776_Emmer_18596_S19_Mid_1x1_d_c,9776,Nikon,1x,1,18596,18596,,Mid,S19,,Arch_Emmer,d,
+9777_Emmer_18596_S19_Mid_1x1_l_c,9777,Nikon,1x,1,18596,18596,,Mid,S19,,Arch_Emmer,l,
+9778_Emmer_18596_S20_Mid_1x1_d_c,9778,Nikon,1x,1,18596,18596,,Mid,S20,,Arch_Emmer,d,
+9779_Emmer_18596_S20_Mid_1x1_l_c,9779,Nikon,1x,1,18596,18596,,Mid,S20,,Arch_Emmer,l,
+9780_Emmer_18596_S21_Mid_1x1_d_c,9780,Nikon,1x,1,18596,18596,,Mid,S21,,Arch_Emmer,d,
+9781_Emmer_18596_S21_Mid_1x1_l_c,9781,Nikon,1x,1,18596,18596,,Mid,S21,,Arch_Emmer,l,
+9782_Emmer_18596_S22_Mid_1x1_d_c,9782,Nikon,1x,1,18596,18596,,Mid,S22,,Arch_Emmer,d,
+9783_Emmer_18596_S22_Mid_1x1_l_c,9783,Nikon,1x,1,18596,18596,,Mid,S22,,Arch_Emmer,l,
+9784_Emmer_18596_S23_Mid_1x1_d_c,9784,Nikon,1x,1,18596,18596,,Mid,S23,,Arch_Emmer,d,
+9785_Emmer_18596_S23_Mid_1x1_l_c,9785,Nikon,1x,1,18596,18596,,Mid,S23,,Arch_Emmer,l,
+9786_Emmer_18596_S24_Mid_1x1_d_c,9786,Nikon,1x,1,18596,18596,,Mid,S24,,Arch_Emmer,d,
+9787_Emmer_18596_S24_Mid_1x1_l_c,9787,Nikon,1x,1,18596,18596,,Mid,S24,,Arch_Emmer,l,
+9788_Emmer_18596_S25_Mid_1x1_d_c,9788,Nikon,1x,1,18596,18596,,Mid,S25,,Arch_Emmer,d,
+9789_Emmer_18596_S25_Mid_1x1_l_c,9789,Nikon,1x,1,18596,18596,,Mid,S25,,Arch_Emmer,l,
+9790_Emmer_18596_S26_Mid_1x1_d_c,9790,Nikon,1x,1,18596,18596,,Mid,S26,,Arch_Emmer,d,
+9791_Emmer_18596_S26_Mid_1x1_l_c,9791,Nikon,1x,1,18596,18596,,Mid,S26,,Arch_Emmer,l,
+9792_Emmer_18596_S27_Mid_1x1_d_c,9792,Nikon,1x,1,18596,18596,,Mid,S27,,Arch_Emmer,d,
+9793_Emmer_18596_S27_Mid_1x1_l_c,9793,Nikon,1x,1,18596,18596,,Mid,S27,,Arch_Emmer,l,
+9794_Emmer_18596_S28_Mid_1x1_d_c,9794,Nikon,1x,1,18596,18596,,Mid,S28,,Arch_Emmer,d,
+9795_Emmer_18596_S28_Mid_1x1_l_c,9795,Nikon,1x,1,18596,18596,,Mid,S28,,Arch_Emmer,l,
+9796_Emmer_18596_S29_Mid_1x1_d_c,9796,Nikon,1x,1,18596,18596,,Mid,S29,,Arch_Emmer,d,
+9797_Emmer_18596_S29_Mid_1x1_l_c,9797,Nikon,1x,1,18596,18596,,Mid,S29,,Arch_Emmer,l,
+9798_Emmer_18596_S30_Mid_1x1_d_c,9798,Nikon,1x,1,18596,18596,,Mid,S30,,Arch_Emmer,d,
+9799_Emmer_18596_S30_Mid_1x1_l_c,9799,Nikon,1x,1,18596,18596,,Mid,S30,,Arch_Emmer,l,
+9800_Emmer_18596_S31_Mid_1x1_d_c,9800,Nikon,1x,1,18596,18596,,Mid,S31,,Arch_Emmer,d,
+9801_Emmer_18596_S31_Mid_1x1_l_c,9801,Nikon,1x,1,18596,18596,,Mid,S31,,Arch_Emmer,l,
+9802_Emmer_18596_S32_Mid_1x1_d_c,9802,Nikon,1x,1,18596,18596,,Mid,S32,,Arch_Emmer,d,
+9803_Emmer_18596_S32_Mid_1x1_l_c,9803,Nikon,1x,1,18596,18596,,Mid,S32,,Arch_Emmer,l,
+9804_Emmer_1664_S1_Early_1x1_d_c,9804,Nikon,1x,1,513,1664,,Early,S1,,Arch_New,d,
+9805_Emmer_1664_S1_Early_1x1_l_c,9805,Nikon,1x,1,513,1664,,Early,S1,,Arch_New,l,
+9806_Emmer_1664_S4_Early_1x1_d_c,9806,Nikon,1x,1,513,1664,,Early,S4,,Arch_Emmer,d,
+9807_Emmer_1664_S4_Early_1x1_l_c,9807,Nikon,1x,1,513,1664,,Early,S4,,Arch_Emmer,l,
+9808_Emmer_1664_S2_Early_1x1_d_c,9808,Nikon,1x,1,513,1664,,Early,S2,,Arch_Emmer,d,
+9809_Emmer_1664_S2_Early_1x2_l_c,9809,Nikon,1x,2,513,1664,,Early,S2,,Arch_Emmer,l,
+9810_Emmer_1845_S1_Early_1x1_d_c,9810,Nikon,1x,1,674,1845,,Early,S1,,Arch_Emmer,d,
+9811_Emmer_1845_S1_Early_1x1_l_c,9811,Nikon,1x,1,674,1845,,Early,S1,,Arch_Emmer,l,
+9814_NT_2024_S1_Early_1x1_d_c,9814,Nikon,1x,1,2236,2024,,Early,S1,,Arch_New,d,
+9815_NT_2024_S1_Early_1x1_l_c,9815,Nikon,1x,1,2236,2024,,Early,S1,,Arch_New,l,
+9816_Emmer_2024_S1_Early_1x1_d_c,9816,Nikon,1x,1,2236,2024,,Early,S1,,Arch_Emmer,d,
+9817_Emmer_2024_S1_Early_1x1_l_c,9817,Nikon,1x,1,2236,2024,,Early,S1,,Arch_Emmer,l,
+9818_Emmer_4793_S1_Early_1x1_d_c,9818,Nikon,1x,1,2763,4793,,Early,S1,,Arch_Emmer,d,
+9819_Emmer_4793_S1_Early_1x1_l_c,9819,Nikon,1x,1,2763,4793,,Early,S1,,Arch_Emmer,l,
+9822_Emmer_2364_S1_Early_1x1_d_c,9822,Nikon,1x,1,1038,2364,,Early,S1,,Arch_Emmer,d,
+9823_Emmer_2364_S1_Early_1x1_l_c,9823,Nikon,1x,1,1038,2364,,Early,S1,,Arch_Emmer,l,
+9824_NotID_2364_S1_Early_1x1_d_c,9824,Nikon,1x,1,1038,2364,,Early,S1,,Arch_New,d,
+9825_NotID_2364_S1_Early_1x1_l_c,9825,Nikon,1x,1,1038,2364,,Early,S1,,Arch_New,l,
+9836_2gr einkorn_5302_S2_Early_1x1_d_c,9836,Nikon,1x,1,3666,5302,,Early,S2,,Arch_New,d,
+9837_2gr einkorn_5302_S2_Early_1x1_l_c,9837,Nikon,1x,1,3666,5302,,Early,S2,,Arch_New,l,
+9838_Einkorn indet_5302_S1_Early_1x1_d_c,9838,Nikon,1x,1,3666,5302,,Early,S1,,Arch_New,d,c
+9839_Einkorn indet_5302_S1_Early_1x1_l_c,9839,Nikon,1x,1,3666,5302,,Early,S1,,Arch_New,l,c
+9840_Einkorn indet_5302_S2_Early_1x1_d_c,9840,Nikon,1x,1,3666,5302,,Early,S2,,Arch_New,d,
+9841_Einkorn indet_5302_S2_Early_1x1_l_c,9841,Nikon,1x,1,3666,5302,,Early,S2,,Arch_New,l,
+9842_emmerOReinkorn_5302_S1_Early_1x1_d_c,9842,Nikon,1x,1,3666,5302,,Early,S1,,Arch_Emmer,d,
+9843_emmerOReinkorn_5302_S1_Early_1x1_l_c,9843,Nikon,1x,1,3666,5302,,Early,S1,,Arch_Emmer,l,
+9844_cfemmer_5277_S1_Early_1x1_d_c,9844,Nikon,1x,1,3324,5277,,Early,S1,,Arch_New,d,
+9845_cfemmer_5277_S1_Early_1x1_l_c,9845,Nikon,1x,1,3324,5277,,Early,S1,,Arch_New,l,
+9846_2gr einkorn_2346_S1_Early_1x1_d_c,9846,Nikon,1x,1,1010,2346,,Early,S1,,Arch_New,d,c
+9847_2gr einkorn_2346_S1_Early_1x1_l_c,9847,Nikon,1x,1,1010,2346,,Early,S1,,Arch_New,l,c
+9848_Emmer_4869_S1_Early_1x1_d_c,9848,Nikon,1x,1,3148,4869,,Early,S1,,Arch_Emmer,d,
+9849_Emmer_4869_S1_Early_1x1_l_c,9849,Nikon,1x,1,3148,4869,,Early,S1,,Arch_Emmer,l,
+9850_emmerOReinkorn_4869_S1_Early_1x1_d_c,9850,Nikon,1x,1,3151,4869,,Early,S1,,Arch_New,d,
+9851_emmerOReinkorn_4869_S1_Early_1x1_l_c,9851,Nikon,1x,1,3151,4869,,Early,S1,,Arch_New,l,
+9852_Emmer_4125_S1_Early_1x1_d_c,9852,Nikon,1x,1,2326,4125,,Early,S1,,Arch_Emmer,d,
+9853_Emmer_4125_S1_Early_1x1_l_c,9853,Nikon,1x,1,2326,4125,,Early,S1,,Arch_Emmer,l,
+9854_Emmer_1255_S6_Mid_1x1_d_c,9854,Nikon,1x,1,78,1255,,Mid,S6,,Arch_Emmer,d,
+9855_Emmer_1255_S6_Mid_1x1_l_c,9855,Nikon,1x,1,78,1255,,Mid,S6,,Arch_Emmer,l,
+9856_NotID_22850_S1_Late_1x1_d_c,9856,Nikon,1x,1,12278,22850,,Late,S1,,Arch_Emmer,d,
+9857_NotID_22850_S1_Late_1x1_l_c,9857,Nikon,1x,1,12278,22850,,Late,S1,,Arch_Emmer,l,
+9858_NotID_22850_S2_Late_1x1_d_c,9858,Nikon,1x,1,12278,22850,,Late,S2,,Arch_Emmer,d,
+9859_NotID_22850_S2_Late_1x1_l_c,9859,Nikon,1x,1,12278,22850,,Late,S2,,Arch_Emmer,l,
+9860_NotID_22850_S3_Late_1x1_d_c,9860,Nikon,1x,1,12278,22850,,Late,S3,,Arch_Emmer,d,
+9861_NotID_22850_S3_Late_1x1_l_c,9861,Nikon,1x,1,12278,22850,,Late,S3,,Arch_Emmer,l,
