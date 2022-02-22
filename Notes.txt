@@ -1,0 +1,40 @@
+NB:
+GrainCoordinates
+*Main coordinate folders:
+Stage1Uncharred= Modern reference grains analysed prior to charring in 3 views (Stage 1)
+Stage1Charred= Charred modern reference grains analysed in 3 views (i.e. not including T. dicoccoides) (243 grains)
+CatalGrains= All Çatalhöyük grain outlines in 2 views (231 grains)
+ReferenceGrains= All charred modern comparative material (see Table 2) + Vaihingen grain outlines in 2 views (443 grains)
+MethodTest= five grains of the same species photographed and digitised five times in five separate sessions
+
+*Subset coordinate folders for analysis:
+CatalGrainsUnmixed= subset of CatalGrains including grains only from 'pure deposits' of emmer or NGW (86 grains)
+CatalGrainsMixed= subset of CatalGrains including grains only from mixed deposits (i.e. containing both NGW and emmer identifications) (145 grains)
+ReferenceGrains_CatalUnmixed= Contents of ReferenceGrains + CatalGrainsUnmixed (529 grains)
+Stage1Charred_dccds= Same as Stage1Charred, but without polar view and including T. dicoccoides.
+TaraTimo= subset of ReferenceGrains containing only modern T. araraticum and T. timopheevii
+
+GrainDataFrames
+*Data frames:
+.csv data frame files correspond to above coordinate folder names with '_Matrix' added to filename
+'Taxon.code' (Column L) refers to either:
+-known ID i.e. of reference grain or assumed when grain was from 'pure' NGW or emmer deposit
+OR
+-type grain was reclassified as  when compared to modern data +  Çatalhöyük grains from 'unmixed' deposits 
+Taxon referred to in filename = original identification by archaeobotanist (if known). 
+'Not ID'/'Mixed'= material came from  an unlabelled vial or previously unsorted material.
+
+Classification Files
+*ArchaeologicalGrains_Classifications.xslx
+Results of reclassification when Çatalhöyük grains from mixed deposits (CatalGrainsMixed) reclassified against ReferenceGrains + CatalGrainsUnmixed
+Reclassification rationale=
+If grain classified as T. araraticum: assigned Arch_New (11 grains)
+If grain classified as Arch_New: assigned Arch_New (56 grains)
+If grain classified as Timo: assigned as Arch_Emmer or Arch_New depending on which scored next-highest in LDA (13 assigned Arch_New, 5 Arch_Emmer)
+If grain classified as Tdicm: assigned as Arch_Emmer (5 grains)
+If grain classified as Arch_emmer: assigned as Arch_Emmer (55 grains)
+Grains from unmixed deposits (CatalGrainsUnmixed) listed as 'N/A under 'LDA reclass' (Column G)
+
+*NewType_Classifications.CSV
+Results of reclassification when all Çatalhöyük grains assigned as NGW in "ArchaeologicalGrains_Classifications.xslx" reclassified 
+as unknowns using modern T. araraticum and T. timopheevii (TaraTimo) as classifiers.
