@@ -23,6 +23,7 @@ OR
 -type grain was reclassified as  when compared to modern data +  Çatalhöyük grains from 'unmixed' deposits 
 Taxon referred to in filename = original identification by archaeobotanist (if known). 
 'Not ID'/'Mixed'= material came from  an unlabelled vial or previously unsorted material.
+'Coeffs3_lateral.csv' and 'Coeffs4_dorsal.csv'= coefficients extracted from 'MethodTest' data for calculating measurement error 
 
 Classification Files
 *ArchaeologicalGrains_Classifications.xslx
